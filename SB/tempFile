@@ -6,11 +6,8 @@ wanted to determine if a college student has depression based on their major of 
 quickly learned that kind of data was not attainable and started searching for a different 
 data set still involving depression. We found a data set involving mental illness in the 
 Tech industry and found that even more interesting than our original topic.
--	We found our data set through Kaggle, titled “Mental Health in the Tech Industry.” This 
-data set has three different tables combined into one sqlite file. The Answer table has 
-four columns, Answer ID, Survey ID, User ID, Question ID, and 273 thousand rows. The Question 
-table has two columns, Question ID, and Question Text. The Survey table has Survey ID and 
-Description of the survey. 
+-	We found our data set through Kaggle, titled “OSMI Mental Health in Tech Survey 2016.” This
+data set has 63 columns and 1434 rows of data. 
 -	With this data we hope to build a machine learning model that will determine if an 
 individual in the Tech industry has a mental illness. We do not know if we want to determine 
 depression in an individual or if we want to determine which mental illness from a list of 
