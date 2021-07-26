@@ -1,20 +1,23 @@
 ## Mental-Health-Machine-Learning
 # Overview of the analysis
 The analysis will be done to predict if a person working in any Tech industry has some mental illness /disorder.We are working as a team of four members and after 
-researching through various web pages we finally found some data relevent to our interest in the Kaggle named as "Mental Health in the Tech Industry".
+researching through various web pages we finally found some data relevent to our interest in the Kaggle named as "Mental Health in the Tech Industry" it has around 
+273 thousand rows.This Database contains all information needed to do data analysis.
  
 This data set has three different tables combined into one sqlite file. 
 They are :
-. The Answer table has 
-four columns, Answer ID, Survey ID, User ID, Question ID, and 273 thousand rows. 
-. The Question table has 
-table has two columns, Question ID, and Question Text. 
+. The Answer table has four columns
+ Answer ID, Survey ID, User ID, Question ID (PRIMARY/FOREIGN KEY SurveyID, PRIMARY KEY UserID, PRIMARY/FOREIGN KEY QuestionID, TEXT AnswerText). 
+. The Question table has two columns
+ Question ID, and Question Text(PRIMARY KEY QuestionID, TEXT QuestionText) 
 . The Survey table has 
-Survey ID and Description of the survey. 
+Survey ID and Description of the survey(PRIMARY KEY INT SurveyID , TEXT Description) . 
 
--	With this data we hope to build a machine learning model that will determine if an 
-individual in the Tech industry has a mental illness. We do not know if we want to determine 
-depression in an individual or if we want to determine which mental illness from a list of 
+. This data  has the survey results of the  year ie (2014, 2016, 2017, 2018, 2019).We hope to build a machine learning model with maybe one particular year and
+that will determine if an individual in the Tech industry has a mental illness.
+We want to determine if technology can cause mental health issues? Also, does tech industry workers having more mental health issue then other industries?
+if yes, why do tech workers suffer more mental issue?
+We will run supervised machine learning algorithms to predict depression in an individual or if we want to determine which mental illness from a list of 
 anxiety, depression, bipolar disorder, etc. in the mental illnesses in the data.
 
 # Resources
