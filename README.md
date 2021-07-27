@@ -1,7 +1,7 @@
 # Mental Health Machine Learning 
 
 ## Presentation
-Topic: Determining depression or a specific mental illness in individuals working in Tech
+Topic: Determining the presence of a mental health disorder or a specific mental illness in individuals working in Tech
 
 -	Within our team we have some knowledge and interest in behavioral sciences. We originally
 wanted to determine if a college student has depression based on their major of study. We 
