@@ -13,17 +13,35 @@ data set has 63 columns and 1434 rows of data from a survey about mental health 
 industry.
 -	With this data we hope to build a machine learning model that will determine if an 
 individual in the Tech industry has a mental illness. We do not know if we want to determine 
-depression in an individual or if we want to determine which mental illness from a list of 
-anxiety, depression, bipolar disorder, etc. in the mental illnesses in the data.
+depression in an individual or if we want to determine if an individual has any mental illness.
+
+https://docs.google.com/presentation/d/1Q9a80p3waqXFFyu41QArDrO-no4XnSO7y0TwBshJHQA/edit?usp=sharing
 
 ## Machine Learning Model
-Python will be used to read in the data
-- If we choose to determine depression, a supervised learning model or deep learning neural
-network will be the best model to use because our data set has labeled data and a single outcome.
-After converting the mental illness to a binary outcome we can use the logistic regression 
-algorithm to predict the outcome.
+Pandas will be used to read in the data and clean it. Further analysis will be completed using Python.
+- We started by determining which columns we wanted to keep for our analysis. Many columns asked about
+ previous employers and we were only interested in the current employer's work environment. We chose
+ questions that could have an affect on the individual's mental health in the workplace instead of a 
+ question that would be a result of a mental illness. Overall, we agreed on around ten questions that
+ we thought would give us the most insight into the question we're trying to answer.
+- After choosing our columns we had clean the data. We shortened some of the column names for easy
+ readability, changed values from strings to integers, created bins for values with a range of integers,
+ and filtered some columns.
+- If we choose to determine depression, a supervised learning model will be the best model to use
+ because our data set has labeled data and a single outcome. After converting the mental illness to a
+ binary outcome we can use the Sklearn library to create a classifier and logistic regression to predict 
+ the outcome.
 - If we choose to determine any mental illness within individuals who work in Tech, a supervised
-learning or neural network would also be more suitable for the question we are asking.
+learning would also be more suitable for the question we are asking as well as the method used above in
+determining depression.
+
+## Dashboard
+- Storyboard of google slides
+- We are using a Flask template along with D3.js to create a fully functioning and interactive dashboard.
+- A description of our topic and model will be at the top of the page.
+- We have our dataset in a table along with a way to filter the data based on year, mental illness,
+ gender, employment status, and company size.
+- There will also be some other graphs and charts on a breakdown of each disorder.
 
 ## Communication
 Communication has been through zoom on Tuesdays and Thursdays 7:30 pm till 9:00 pm and though
