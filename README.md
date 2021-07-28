@@ -13,11 +13,17 @@ data set has 63 columns and 1434 rows of data from a survey about mental health 
 industry.
 -	With this data we hope to build a machine learning model that will determine if an 
 individual in the Tech industry has a mental illness. We do not know if we want to determine 
-depression in an individual or if we want to determine which mental illness from a list of 
-anxiety, depression, bipolar disorder, etc. in the mental illnesses in the data.
+depression in an individual or if we want to determine if an individual has any mental illness.
+
+https://docs.google.com/presentation/d/1Q9a80p3waqXFFyu41QArDrO-no4XnSO7y0TwBshJHQA/edit?usp=sharing
 
 ## Machine Learning Model
-Python will be used to read in the data
+Pandas will be used to read in the data and clean it. Further analysis will be completed using Python.
+- We started by determining which columns we wanted to keep for our analysis. Many columns asked about
+ previous employers and we were only interested in the current employer's work environment. We chose
+ questions that could have an affect on the individual's mental health in the workplace instead of a 
+ question that would be a result of a mental illness. Overall, we agreed on around ten questions that
+ we thought would give us the most insight into the question we're trying to answer.
 - If we choose to determine depression, a supervised learning model or deep learning neural
 network will be the best model to use because our data set has labeled data and a single outcome.
 After converting the mental illness to a binary outcome we can use the logistic regression 
