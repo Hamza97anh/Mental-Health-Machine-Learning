@@ -39,7 +39,9 @@ determining depression.
 - Storyboard of google slides
 - We are using a Flask template along with D3.js to create a fully functioning and interactive dashboard.
 - A description of our topic and model will be at the top of the page.
-- We have our dataset in a table along with a way to filter the data based on year
+- We have our dataset in a table along with a way to filter the data based on year, mental illness,
+ gender, employment status, and company size.
+- There will also be some other graphs and charts on a breakdown of each disorder.
 
 ## Communication
 Communication has been through zoom on Tuesdays and Thursdays 7:30 pm till 9:00 pm and though
