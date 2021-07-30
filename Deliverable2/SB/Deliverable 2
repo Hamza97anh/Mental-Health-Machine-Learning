@@ -5,8 +5,8 @@ Topic: Determining the presence of a mental health disorder or a specific mental
 college student has depression based on their major of study. We quickly learned that kind of data was not attainable 
 and started searching for a different data set still involving depression. We found a data set involving mental illness
 in the Tech industry and found that even more interesting than our original topic.
-- We found our data set through Kaggle, titled “OSMI Mental Health in Tech Survey 2016.” This data set has 63 columns 
-and 1434 rows of data from a survey about mental health in the Tech industry. 
+- We found our data sets through Kaggle under “OSMI Mental Health in Tech Survey.” We decided to look at the datasets for years
+2017 through 2019 because the columns were identical to one another.
 - With this data we hope to build a machine learning model that will determine if an individual in the Tech industry has
 a mental illness. We do not know if we want to determine depression in an individual or if we want to determine if an 
 individual has any mental illness.
