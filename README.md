@@ -30,7 +30,8 @@ Pandas will be used to read in the data and clean it. Further analysis will be c
 - If we choose to determine depression, a supervised learning model will be the best model to use
  because our data set has labeled data and a single outcome. After converting the mental illness to a
  binary outcome we can use the Sklearn library to create a classifier and logistic regression to predict 
- the outcome.
+ the outcome. We split the data into a training set with 80 percent of the data and a testing set with 20
+ percent of the data.
 - If we choose to determine any mental illness within individuals who work in Tech, a supervised
 learning would also be more suitable for the question we are asking as well as the method used above in
 determining depression.
