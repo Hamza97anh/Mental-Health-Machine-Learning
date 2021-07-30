@@ -1,0 +1,18 @@
+body {
+    color: #f7f7f7;
+    background-color: #d6040462;
+  }
+  .jumbotron {
+    background-image: url("../images/Mental.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .center {
+    margin: auto;
+    width: 60%;
+    height:360px;
+    border: 5px solid #000000;
+    padding: 10px;
+  }
