@@ -29,9 +29,10 @@
           </div>
           <div class="col-md-8">
             <p>
-              The Goal of this project is to use machine learning to predict the probeblity of an individual having a mental disorder in the tech industry. The model uses data pulled from the Open Source Mental Illness (OSMI)'s surveys from the years 2014, 2016, 2017, 2018 and 2019. Each survy includes a vast array of questions regarding not only potential causal factors that may lead to mental disorders, but also some quality of life issues that workers in the tech industry are facing today.  
-              
-
+              The Goal of this project is to use machine learning to predict the probeblity of an individual having a mental disorder in the tech industry.
+              The model uses data pulled from the Open Source Mental Illness (OSMI)'s surveys from the years 2017, 2018 and 2019. 
+              Each survy includes a vast array of questions regarding not only potential causal factors that may lead to mental disorders, 
+              but also some quality of life issues that workers in the tech industry are facing today.  
             </p>
           </div>
         </div>
@@ -43,24 +44,24 @@
                 <p>Filter Search</p>
                 <ul class="bg-dark">
                     <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="date">Survey Year</label>
-                    <input type="text" placeholder="2014" id="datetime" />
+                    <label for="date">Age Groupes</label>
+                    <input type="text" placeholder="24-30" id="Age Groups" />
                   </li>
                   <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="Condition">Mental Disorder</label>
-                    <input type="text" placeholder="Depression" id="city" />
+                    <label for="Condition">Company Size</label>
+                    <input type="text" placeholder="26-100" id="How many employees does your company or organization have?" />
                    </li>
                   <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
                     <label for="gender">Gender</label>
-                    <input type="text" placeholder="M" id="state" />
+                    <input type="text" placeholder="0 or 1 or3" id="Gender: F=0, M=1, Non-binary=3" />
                   </li>
                   <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
                     <label for="Employment status">Employment status</label>
-                    <input type="text" placeholder="Self Employed" id="country" />
+                    <input type="text" placeholder="0 or 1" id="Are you self-employed? Y=1 N=0" />
                   </li>
-                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="size">Company size</label>
-                    <input type="text" placeholder="1-100" id="shape" />
+                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rm;">
+                    <label for="size">Family History</label>
+                    <input type="text" placeholder="0 or 1" id="Do you have a family history of mental illness? Y=1 N=0" />
                   </li>
                 </ul>
                </form>
@@ -69,12 +70,17 @@
             <table class="table table-striped">
               <thead>
                 <tr>
-                    <th>Survey Year</th>
-                    <th>Mental Disorder</th>
-                    <th>Gender</th>
-                    <th>Employment status</th>
-                    <th>Company size</th>
-                    <th>Comments</th>
+                    <th>index</th>
+                    <th>age</th>
+                    <th>Gender: F=0, M=1, Non-binary=3</th>
+                    <th>If possibly, what disorder(s) do you believe you have?</th>
+                    <th>Have you ever been diagnosed with a mental health disorder? Y=1 N=0</th>
+                    <th>Have you had a mental health disorder in the past?  Y=1 N=0</th>
+                    <th>Do you have a family history of mental illness?  Y=1 N=0</th>
+                    <th>Are you self-employed?  Y=1 N=0</th>
+                    <th>Is your employer primarily a tech company/organization?  Y=1 N=0</th>
+                    <th>How many employees does your company or organization have?</th>
+                    <th>Age Groups</th>
                 </tr>
               </thead>
               <tbody></tbody>
