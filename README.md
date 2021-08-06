@@ -32,4 +32,4 @@ The data was split into a training set and a testing set with 80 percent and 20 
 - A description of our topic and model will be at the top of the page. 
 - We have our dataset in a table along with a way to filter the data based on year, mental illness, gender, employment status,
 and company size. 
-- There will also be some other graphs and charts on a breakdown of each disorder.
+- Graphs created to help visualize our findings
