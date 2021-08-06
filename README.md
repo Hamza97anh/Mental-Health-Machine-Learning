@@ -14,6 +14,7 @@ a mental illness.
 - We chose to filter through columns that would give us insight into the cause of a mental illness in the workplace and not questions asking about how the workplace caters to people with mental illnesses. The string values also had to be changed to binary outcomes or numerical outcomes.
 - We chose a logistic regression model splitting our data into 80 percent training and 20 pecent testing. 
 - Our data gave us an accuracy score of 63 percent. Family history seemed to have the greatest influence on mental illness.
+- Python in Jupyter Notebooks, Tableau, Excel, Flask, D3.js has all been used in this analysis.
 https://docs.google.com/presentation/d/1Q9a80p3waqXFFyu41QArDrO-no4XnSO7y0TwBshJHQA/edit?usp=sharing
 
 ## Machine Learning Model
