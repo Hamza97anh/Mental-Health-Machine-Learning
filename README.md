@@ -15,21 +15,11 @@ individual has any mental illness.
 https://docs.google.com/presentation/d/1Q9a80p3waqXFFyu41QArDrO-no4XnSO7y0TwBshJHQA/edit?usp=sharing
 
 ## Machine Learning Model
-Pandas will be used to read in the data and clean it. Further analysis will be completed using Python.
+We chose a logistic regression for our machine learning model as our desired dependent variable output is categorical and binary: whether or not a variable can predict the presence of a mental health disorder diagnosis for individuals in the tech industry (1 or 0). Such a model has the potential to provide correlations that could significantly impact the understanding of mental health disorders as they relate to the tech industry. However, we are also limited by the binary output of the algorithm. There are many different mental health disorders and providing only a yes or no output does not fully capture the story. If we had more time, we would have loved to attempt a multiple categorical output regression that is able to predict which mental health disorder an individual in the tech industry might have been diagnosed with. This could prove to be very beneficial in determining what potentially causes such disorders with employees in the tech industry.
 
-- We started by determining which columns we wanted to keep for our analysis. Many columns asked about previous employers
-and we were only interested in the current employer's work environment. We chose questions that could have an affect on
-the individual's mental health in the workplace instead of a question that would be a result of a mental illness. Overall, 
-we agreed on around ten questions that we thought would give us the most insight into the question we're trying to answer.
-- After choosing our columns we had to clean the data. We shortened some of the column names for easy readability, changed values
-from strings to integers, created bins for values with a range of integers, and filtered some columns.
-- If we choose to determine depression, a supervised learning model will be the best model to use because our data set has 
-labeled data and a single outcome. After converting the mental illness to a binary outcome we can use the Sklearn library to
-create a classifier and logistic regression to predict the outcome. We split the data into a training set with 80 percent of
-the data and a testing set with 20 percent of the data. 
-- If we choose to determine any mental illness within individuals who work in Tech, 
-a supervised learning would also be more suitable for the question we are asking as well as the method used above in 
-determining depression.
+In order for the model to effectively predict accuracy with the data, the data first has to be cleaned and modified. The only columns needed throughout the testing of this model were Gender, Age, Self-Employment Status, and Mental Health Disorder Diagnosis Status. All columns pertaining to these variables had to be converted to a numerical output. That meant converting Gender, Self-Employment Status, and Mental Health Disorder Diagnosis Status to binary (1 or 0, present or absent). We chose these variables as we hypothesized they have the strongest correlation with mental health in the tech industry. Gender and Age have been factors of influence in many other industries and communities, and whether an individual is self-employed or not may affect how happy they are in their position and with their work. Though the model using Gender data to predict Mental Health Disorder Diagnosis Status had the strongest accuracy, it is still not high enough for us to consider as a potential final variable. We will continue to explore other columns in the dataset.
+
+The data was split into a training set and a testing set with 80 percent and 20 percent of the data, respectively. The dependent variables used were Age, Self-Employment Status, and Gender. The independent variable used was Mental Health Disorder Diagnosis Status.
 
 ## Dashboard
 - Storyboard of google slides. 
