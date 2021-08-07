@@ -30,6 +30,6 @@ The data was split into a training set and a testing set with 80 percent and 20 
 - Storyboard of google slides. 
 - We are using a Flask template along with D3.js to create a fully functioning and interactive dashboard. 
 - A description of our topic and model will be at the top of the page. 
-- We have our dataset in a table along with a way to filter the data based on year, mental illness, gender, employment status,
+- We have our dataset in a table along with a way to filter the data based on year, gender, self-employment,
 and company size. 
-- Graphs created to help visualize our findings
+- Graphs and pictures of our analysis to help visualize our findings.
