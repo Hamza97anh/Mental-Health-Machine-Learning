@@ -16,3 +16,75 @@ body {
     border: 5px solid #000000;
     padding: 10px;
   }
+  .right {
+    margin: auto;
+    width: 60%;
+    height:280px;
+    border: 5px solid #000000;
+    padding: 10px;
+    font-size: x-large;
+  }
+  .grid-container {
+    display: inline-grid;
+  }
+  .chart1 {
+    margin: auto;
+    background-image: url("../images/DiagnosedAgeGroups.png");
+    background-size: 100% 100%;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart2 {
+    margin: auto;
+    background-image: url("../images/DiagnosedCompanySize.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart3 {
+    margin: auto;
+    background-image: url("../images/DiagnosedFamilyHistory.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart4 {
+    margin: auto;
+    background-image: url("../images/DiagnosedFamilyHistory2.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart5 {
+    margin: auto;
+    background-image: url("../images/DiagnosedSelfEmployed.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .scrollable {
+    overflow-y: auto !important;  // Use !important only if there is already an overflow style rule for this element and you want to override
+  }  
+  .datalist {
+    max-height: 500px;
+    overflow-y: auto;
+}
+.tbody {
+  height: 200px;
+  overflow-y: scroll;
+}
+.table{
+  overflow-y:scroll;
+  height:1000px;
+  display:block;
+}
+.div_before_table {
+  overflow:hidden;
+  overflow-y: scroll;
+  height: 500px;
+}
