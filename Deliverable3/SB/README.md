@@ -31,10 +31,10 @@ All columns pertaining to these variables had to be converted to a numerical out
 ![Gender Column](https://github.com/Hamza97anh/Mental-Health-Machine-Learning/blob/316b8e70b7ae75f466c173992e508fbfbbb01015/Images/Gender%20Column.png)
 
 Whether or not the individual has a family history of mental illness provided the strongest correlation with whether or not the individual has been diagnosed with a mental health disorder, with an accuracy of about 0.634. Though we weren't able to find stronger correlations within this dataset, we hope to continue to utilize this model on other datasets with different variables to continue to analyze what factors may impact an employees mental health status.
-! [Accuracy Tests](https://github.com/Hamza97anh/Mental-Health-Machine-Learning/blob/main/Deliverable3/TM/Images/AccuracyTests.png)
+![Accuracy Tests](https://github.com/Hamza97anh/Mental-Health-Machine-Learning/blob/main/Deliverable3/TM/Images/AccuracyTests.png)
 
 The data was split into a training set and a testing set with 80 percent and 20 percent of the data, respectively. The dependent variables used were Age, Self-Employment Status, and Gender. The independent variable used was Mental Health Disorder Diagnosis Status. The data was also balanced with 42.4% of the sample in the dataset having been diagnosed with a mental health disorder.
-![Data Balance](Deliverable3/TM/Images/DataBalance.png)
+![Data Balance](https://github.com/Hamza97anh/Mental-Health-Machine-Learning/blob/main/Deliverable3/TM/Images/DataBalance.png)
 
 ## Dashboard
 - Storyboard of google slides. 
