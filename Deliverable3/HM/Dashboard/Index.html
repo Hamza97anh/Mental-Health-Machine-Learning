@@ -100,21 +100,29 @@
               <div id="sample-metadata" class="panel-body"></div>
             </div>
           </div>
-          <div class="center">
-            <h5>Result Chart.:</h5>
+          <div class="left text-left">
+            <h5 style="color:black">Machine Learning Model:</h5>
           <!--<div class="col-md-8"> -->
             <div id="bubble"></div>
+            <p style="color:black">
+              We chose a logistic regression for our machine learning model as our desired dependent variable output is categorical and binary: 
+              whether or not a variable can predict the presence of a mental health disorder diagnosis for individuals in the tech industry (1 or 0).
+              Such a model has the potential to provide correlations that could significantly impact the understanding of mental health disorders as they relate to the tech industry. 
+              However, we are also limited by the binary output of the algorithm. There are many different mental health disorders and providing only a yes or no output does not fully capture the story. 
+              If we had more time, we would have loved to attempt a multiple categorical output regression that is able to predict which mental health disorder an individual in the tech industry might have been diagnosed with.
+              This could prove to be very beneficial in determining what potentially causes such disorders with employees in the tech industry.
+            </p>
           </div>
         </div>
           <div class="grid-container">
             <div class="col-md-6">
-              <h5>Diagnosed Withing Age Groups:</h5>
+              <h5>Diagnosed Within Age Groups:</h5>
               <div class="center chart1 text-center"></div>
               </div>
               <div id="bar"></div>
-              <h5>Description.:</h5>
               <section class="right text-left">
-                <p>
+                <h5 style="color:black">Description.:</h5>
+                <p style="color:black">
                   Our Age groups were divided into 5 seperate bins that we perceived to be within the same stage in their life.
                   16-23 for example would be college students likely working as interns at these tech companies.
                   24-30 are the fresh grads who are just starting their life and getting into their first jobs post grad.
@@ -125,13 +133,13 @@
               </div>
             </div>
             <div class="col-md-6">
-              <h5>Diagnosed Withing Company Size:</h5>
+              <h5>Diagnosed Within Company Size:</h5>
               <div class="center chart2 text-center"></div>
               </div>
               <div id="bar"></div>
-              <h5>Description.:</h5>
               <section class="right text-left">
-                <p>
+                <h5 style="color:black">Description.:</h5>
+                <p style="color:black">
                   Much like the Age Column, we binned the company size into commonly understood number figures that most people would understand
                   A company less then 5 would be either startup ventures or small contractor teams that larger companies would higher.
                   Above that we would start to look at small local businesses to city-wide, state-wide, National, then international fourtune 500 companies in that order. 
@@ -141,13 +149,13 @@
               </div>
             </div>
             <div class="col-md-6">
-              <h5>Diagnosed Withing a Family History:</h5>
+              <h5>Diagnosed Within a Family History:</h5>
               <div class="center chart3 text-center"></div>
               </div>
               <div id="bar"></div>
-              <h5>Description.:</h5>
               <section class="right text-left">
-                <p>
+                <h5 style="color:black">Description.:</h5>
+                <p style="color:black">
                   This test took dividing up the entire sheet of people into two catagories of those who do have a mental illness vs those who don't
                   Then of the yes and no catagories we then we included if these individual have a family history of mental health disorders. 
                   We right way can see that Those who have a mental health disorder and have a family of it make up a larger portion.
@@ -157,23 +165,75 @@
               </div>
             </div>
             <div class="col-md-6">
-              <h5>Diagnosed Withing a Family History:</h5>
-              <div class="center chart3 text-center"></div>
+              <h5>Diagnosed Within Gender:</h5>
+              <div class="center chart4 text-center"></div>
               </div>
               <div id="bar"></div>
-              <h5>Description.:</h5>
               <section class="right text-left">
-                <p>
-                  This test took dividing up the entire sheet of people into two catagories of those who do have a mental illness vs those who don't
-                  Then of the yes and no catagories we then we included if these individual have a family history of mental health disorders. 
-                  We right way can see that Those who have a mental health disorder and have a family of it make up a larger portion.
-                  Our Model produced the strongest result for this data at 0.63 Accuracy score.  
+                <h5 style="color:black">Description.:</h5>
+                <p style="color:black">
+                  Gender gave us the second highest accuracy score at 0.60209. We divided our gender into three catagories. Male, Female, and Non-Binery.
+                  Based on the charts. We find that from the total number of men that were asked a little over half of them said that they had been previously diagnosed with a mental illness.
+                  However, for women and Non-Binary individuals, more people said they had been diagnosed with a mental illness than those that didn't. 
                 </p>
               </section>
               </div>
             </div>
-        <div class="center">
-            <h5>Result Chart.:</h5>
+          </div>
+          <div class="col-md-6">
+            <h5>Diagnosed based on if they're Self-Employed:</h5>
+            <div class="center chart5 text-center"></div>
+            </div>
+            <div id="bar"></div>   
+            <section class="right text-left">
+              <h5 style="color:black">Description.:</h5>
+              <p style="color:black">
+                Based on our model. Whether someone is self employed or not does not show to have a strong correlation between having a mental illness or not.
+                The parameters were simply yes or no, and the accuracy score showed approximitly 0.5759. 
+              </p>
+            </section>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <h5>Diagnosed based on the type of company:</h5>
+          <div class="center chart6 text-center"></div>
+          </div>
+          <div id="bar"></div>
+          <section class="right text-left">
+            <h5 style="color:black">Description.:</h5>
+            <p style="color:black">
+              This question aims to asnwer our orignal hypothesis before starting this project.
+              The question asks if Tech companies are places that have higher chances of giving someone a mental illness, or being a place that has lot of mentally ill individuals.
+              According to our model; the answer is likely a no. The accuracy score was exactly the same as self employment at 0.5759.  
+            </p>
+          </section>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <h5>Diagnosed based on Tech Role:</h5>
+          <div class="center chart7 text-center"></div>
+          </div>
+          <div id="bar"></div>
+          <section class="right text-left">
+            <h5 style="color:black">Description.:</h5>
+            <p style="color:black">
+              The survey asked if the role of the individuals was a tech role or not in the company.
+              The majority of our data said yes to the question, but as far the mental illness side the chart doesn't appear to show any correlation
+              The accuracy score was exactly the same as self employment and type of company at 0.5759.  
+            </p>
+          </section>
+          </div>
+        </div>
+        <div class="right text-left">
+            <h5 style="color:black">Conclusion.:</h5>
+            <p style="color:black">
+              Based on our data, there is definantly a large sum of individuals who work in tech that have a Mental illness, but being in that industry doesn't show to have a causal effect.
+              As far as predicting Mental illness in someone,
+              with our limited data it would seem like having a family history of mental illness coupled with being a women or somone who is non binary are more likely to have a mental illness.
+              At least that would be the case in the tech industry. We can draw some specualtions as to why that is, there is certainly more than one possible reason for that, but that goes beyond this project. 
+      
+            </p>
           <!--<div class="col-md-8"> -->
             <div id="bubble"></div>
           </div>

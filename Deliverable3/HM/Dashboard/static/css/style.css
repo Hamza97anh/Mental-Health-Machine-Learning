@@ -21,8 +21,18 @@ body {
     width: 60%;
     height:280px;
     border: 5px solid #000000;
+    background: rgb(255, 255, 255);
     padding: 10px;
     font-size: x-large;
+  }
+  .left {
+    margin: auto;
+    width: 60%;
+    height:280px;
+    border: 5px solid #000000;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: large;
   }
   .grid-container {
     display: inline-grid;
@@ -53,7 +63,7 @@ body {
   }
   .chart4 {
     margin: auto;
-    background-image: url("../images/DiagnosedFamilyHistory2.png");
+    background-image: url("../images/DiagnosedGender.png");
     background-size: 100% 100%;
     text-align: center;
     color: rgb(255, 255, 255);
@@ -62,6 +72,22 @@ body {
   .chart5 {
     margin: auto;
     background-image: url("../images/DiagnosedSelfEmployed.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart6 {
+    margin: auto;
+    background-image: url("../images/DiagnosedTechCompany.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+  }
+  .chart7 {
+    margin: auto;
+    background-image: url("../images/DiagnosedTechRole.png");
     background-size: 100% 100%;
     text-align: center;
     color: rgb(255, 255, 255);
