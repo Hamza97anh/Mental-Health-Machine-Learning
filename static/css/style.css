@@ -12,10 +12,17 @@ body {
     image-rendering: crisp-edges;
     image-rendering: pixelated;
   }
+  .jumbo {
+    margin: auto;
+    width: 1000px;
+    height:500px;
+    border: 5px solid #000000;
+    padding: 10px;
+  }
   .center {
     margin: auto;
-    width: 60%;
-    height:100%;
+    width: 1060px;
+    height:1090px;
     border: 5px solid #000000;
     padding: 10px;
   }
@@ -48,108 +55,66 @@ body {
     text-align: right;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+  
   }
   .chart2 {
     margin: auto;
     background-image: url("../images/DiagnosedCompanySize.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
   }
   .chart3 {
     margin: auto;
     background-image: url("../images/DiagnosedFamilyHistory.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
   }
   .chart4 {
     margin: auto;
     background-image: url("../images/DiagnosedGender.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
   }
   .chart5 {
     margin: auto;
     background-image: url("../images/DiagnosedSelfEmployed.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
   }
   .chart6 {
     margin: auto;
     background-image: url("../images/DiagnosedTechCompany.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
+  }  
   .chart7 {
     margin: auto;
     background-image: url("../images/DiagnosedTechRole.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-    image-rendering: auto;
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    image-rendering: -moz-crisp-edges;
-    image-rendering: -o-crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -ms-interpolation-mode: nearest-neighbor;
+    
   }
 .chartimg {
   image-rendering: auto;
