@@ -1,0 +1,1526 @@
+,age,"Gender: F=0, M=1, Non-binary=3","If possibly, what disorder(s) do you believe you have?",Have you ever been diagnosed with a mental health disorder? Y=1 N=0,Have you had a mental health disorder in the past?  Y=1 N=0,Do you have a family history of mental illness?  Y=1 N=0,Are you self-employed?  Y=1 N=0,Is your employer primarily a tech company/organization?  Y=1 N=0,How many employees does your company or organization have?,Is your primary role within your company related to tech/IT?,Age Groups,Employee_Range
+0,25.0,1,,0,0,0,0,1,26-100,1,24-30,03
+1,51.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,26-100,1,46-55,03
+2,27.0,1,,0,0,0,0,1,26-100,1,24-30,03
+3,37.0,1,,0,0,1,0,1,100-500,1,31-45,04
+4,46.0,1,,0,0,0,0,1,26-100,1,46-55,03
+5,36.0,0,,1,1,1,0,1,100-500,0,31-45,04
+6,39.0,0,,1,1,1,0,1,26-100,1,31-45,03
+7,35.0,1,"Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,1,0,,0,31-45,999
+8,49.0,2,,0,0,0,0,1,26-100,1,46-55,03
+9,45.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,05-25,1,31-45,999
+10,40.0,1,,0,0,0,0,1,100-500,1,31-45,04
+11,37.0,1,,0,0,0,1,0,,0,31-45,999
+12,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc), Attention Deficit Hyperactivity Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+13,37.0,1,,1,1,1,0,1,500-1000,1,31-45,05
+14,26.0,0,,1,1,0,0,1,100-500,1,24-30,04
+15,43.0,1,,1,1,0,0,0,100-500,1,31-45,04
+16,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,1,31-45,04
+17,31.0,1,,0,0,1,1,0,,0,31-45,999
+18,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,31-45,04
+19,37.0,1,,1,1,0,0,1,more than 1000,1,31-45,999
+20,41.0,1,,0,0,0,0,1,05-25,1,31-45,999
+21,40.0,0,,1,1,1,0,1,100-500,0,31-45,04
+22,37.0,1,,1,1,0,0,1,500-1000,1,31-45,05
+23,53.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Stress Response Syndromes, Eating Disorder (Anorexia, Bulimia, etc)",0,0,1,0,1,100-500,1,46-55,04
+24,29.0,1,,0,0,1,0,1,05-25,1,24-30,999
+25,37.0,1,,1,1,1,0,1,500-1000,1,31-45,05
+26,45.0,0,,1,1,1,0,0,100-500,1,31-45,04
+27,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,24-30,999
+28,28.0,1,,1,1,1,0,1,100-500,1,24-30,04
+29,24.0,0,,1,1,0,0,1,100-500,1,24-30,04
+30,27.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Post-traumatic Stress Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,1,24-30,04
+31,42.0,1,,0,0,0,0,0,100-500,1,31-45,04
+32,53.0,0,,0,0,0,1,0,,0,46-55,999
+33,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,100-500,1,31-45,04
+34,23.0,2,,1,1,0,0,0,500-1000,1,16-23,05
+35,34.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+36,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,05-25,1,24-30,999
+37,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Personality Disorder (Borderline, Antisocial, Paranoid, etc), Obsessive-Compulsive Disorder",0,0,0,0,1,100-500,1,31-45,04
+38,30.0,1,,0,0,0,1,0,,0,24-30,999
+39,58.0,1,,1,1,0,1,0,,0,56+,999
+40,50.0,1,,0,0,0,0,0,more than 1000,1,46-55,999
+41,41.0,1,,1,1,1,0,1,100-500,1,31-45,04
+42,40.0,1,"Stress Response Syndromes, Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,31-45,03
+43,28.0,1,,1,1,0,1,0,,0,24-30,999
+44,49.0,1,,0,0,0,0,1,01-5,1,46-55,999
+45,37.0,1,,1,1,1,0,0,more than 1000,1,31-45,999
+46,36.0,1,,1,1,0,1,0,,0,31-45,999
+47,52.0,1,"Attention Deficit Hyperactivity Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,05-25,1,46-55,999
+48,33.0,2,,0,0,0,0,0,more than 1000,1,31-45,999
+49,54.0,0,,0,0,0,1,0,,0,46-55,999
+50,38.0,1,,0,0,0,1,0,,0,31-45,999
+51,64.0,1,,1,1,0,1,0,,0,56+,999
+52,40.0,1,,0,0,0,1,0,,0,31-45,999
+53,37.0,1,,1,1,0,0,1,26-100,1,31-45,03
+54,53.0,0,,1,1,0,0,0,more than 1000,1,46-55,999
+55,55.0,1,,0,0,0,0,1,05-25,1,46-55,999
+56,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc), Post-traumatic Stress Disorder",0,0,1,0,1,05-25,1,24-30,999
+57,35.0,1,,0,0,1,0,0,500-1000,1,31-45,05
+58,60.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,more than 1000,1,56+,999
+59,34.0,0,,0,0,0,0,0,100-500,1,31-45,04
+60,35.0,1,,0,0,1,0,0,more than 1000,1,31-45,999
+61,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,more than 1000,1,31-45,999
+62,28.0,1,,0,0,1,0,1,26-100,1,24-30,03
+63,28.0,0,,1,1,1,0,1,26-100,1,24-30,03
+64,36.0,2,,0,0,0,0,1,26-100,1,31-45,03
+65,24.0,1,,0,0,0,0,1,05-25,1,24-30,999
+66,50.0,1,,0,0,0,1,0,,0,46-55,999
+67,55.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,46-55,999
+68,32.0,1,,1,1,0,0,1,26-100,1,31-45,03
+69,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,500-1000,1,31-45,05
+70,30.0,0,,1,1,1,0,1,500-1000,1,24-30,05
+71,30.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,1,0,1,500-1000,1,24-30,05
+72,34.0,1,,0,0,0,0,1,100-500,1,31-45,04
+73,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,1,31-45,04
+74,30.0,1,,1,1,1,0,1,100-500,1,24-30,04
+75,29.0,1,,0,0,0,0,1,01-5,1,24-30,999
+76,34.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+77,40.0,1,Attention Deficit Hyperactivity Disorder,0,0,0,0,1,100-500,1,31-45,04
+78,31.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,500-1000,1,31-45,05
+79,27.0,1,,0,0,1,0,1,100-500,1,24-30,04
+80,47.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,more than 1000,1,46-55,999
+81,24.0,0,,1,1,1,0,0,100-500,1,24-30,04
+82,36.0,1,,0,0,0,0,1,100-500,1,31-45,04
+83,28.0,1,,0,0,0,0,1,100-500,1,24-30,04
+84,34.0,1,,0,0,0,0,1,500-1000,1,31-45,05
+85,28.0,1,,0,0,0,0,1,100-500,1,24-30,04
+86,36.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+87,24.0,1,,0,0,0,0,1,100-500,1,24-30,04
+88,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Eating Disorder (Anorexia, Bulimia, etc), Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc), Personality Disorder (Borderline, Antisocial, Paranoid, etc), Stress Response Syndromes",0,0,1,0,1,05-25,1,31-45,999
+89,33.0,1,,1,1,0,0,0,26-100,1,31-45,03
+90,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+91,26.0,0,,1,1,0,0,0,more than 1000,1,24-30,999
+92,32.0,0,,1,1,1,0,1,100-500,1,31-45,04
+93,42.0,1,,0,0,0,0,1,26-100,1,31-45,03
+94,41.0,1,,1,1,0,0,1,more than 1000,1,31-45,999
+95,32.0,1,"Stress Response Syndromes, Anxiety Disorder (Generalized, Social, Phobia, etc), Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,31-45,04
+96,32.0,0,,0,0,1,0,0,more than 1000,1,31-45,999
+97,31.0,0,,0,0,1,0,1,100-500,1,31-45,04
+98,34.0,2,,1,1,1,0,1,100-500,1,31-45,04
+99,36.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc), Dissociative Disorder, Personality Disorder (Borderline, Antisocial, Paranoid, etc), Attention Deficit Hyperactivity Disorder, Stress Response Syndromes, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,more than 1000,1,31-45,999
+100,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+101,30.0,1,,1,1,1,0,1,26-100,1,24-30,03
+102,45.0,0,,1,1,1,0,1,26-100,1,31-45,03
+103,30.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+104,48.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,1,0,,0,46-55,999
+105,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,24-30,04
+106,35.0,0,,1,1,0,1,0,,0,31-45,999
+107,41.0,1,,0,0,0,0,1,100-500,1,31-45,04
+108,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,26-100,1,24-30,03
+109,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+110,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,31-45,04
+111,32.0,1,,0,0,0,0,1,100-500,1,31-45,04
+112,20.0,0,,1,1,1,0,1,01-5,1,16-23,999
+113,24.0,0,,1,1,1,1,0,,0,24-30,999
+114,0.0,1,,0,0,0,0,0,500-1000,1,,05
+115,38.0,1,,0,0,0,0,1,26-100,1,31-45,03
+116,31.0,1,,1,1,0,0,1,05-25,1,31-45,999
+117,26.0,1,,1,1,1,0,1,26-100,0,24-30,03
+118,40.0,1,,1,1,1,0,1,26-100,1,31-45,03
+119,30.0,1,,1,1,1,0,0,05-25,1,24-30,999
+120,38.0,1,,1,1,0,0,0,26-100,1,31-45,03
+121,28.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+122,28.0,0,,0,0,0,0,0,more than 1000,0,24-30,999
+123,30.0,1,,1,1,1,0,1,more than 1000,0,24-30,999
+124,23.0,2,,1,1,1,0,0,more than 1000,1,16-23,999
+125,30.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+126,33.0,0,,1,1,1,0,0,more than 1000,0,31-45,999
+127,53.0,0,,0,0,1,0,0,500-1000,1,46-55,05
+128,38.0,1,,1,1,0,0,0,more than 1000,1,31-45,999
+129,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,31-45,03
+130,40.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+131,42.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+132,42.0,1,,1,1,0,0,1,05-25,1,31-45,999
+133,38.0,1,,1,1,0,0,0,26-100,1,31-45,03
+134,33.0,2,,1,1,1,0,0,more than 1000,1,31-45,999
+135,35.0,1,,1,1,1,0,1,100-500,1,31-45,04
+136,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,24-30,04
+137,28.0,0,,0,0,0,0,0,more than 1000,1,24-30,999
+138,42.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+139,35.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+140,40.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+141,54.0,0,,1,1,1,0,0,100-500,1,46-55,04
+142,37.0,1,,0,0,1,0,1,100-500,1,31-45,04
+143,26.0,0,,1,1,0,0,0,more than 1000,0,24-30,999
+144,37.0,1,,0,0,0,0,0,100-500,1,31-45,04
+145,49.0,0,,1,1,0,0,0,more than 1000,1,46-55,999
+146,23.0,1,,0,0,0,0,0,more than 1000,1,16-23,999
+147,42.0,0,,1,1,0,0,1,100-500,1,31-45,04
+148,49.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,46-55,999
+149,38.0,1,,0,0,0,1,0,,0,31-45,999
+150,41.0,0,,0,0,1,0,1,100-500,1,31-45,04
+151,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+152,27.0,1,,1,1,1,0,1,26-100,1,24-30,03
+153,47.0,1,,0,0,0,0,0,more than 1000,1,46-55,999
+154,28.0,1,,1,1,1,0,1,100-500,1,24-30,04
+155,49.0,0,,1,1,1,0,1,more than 1000,1,46-55,999
+156,23.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc), Attention Deficit Hyperactivity Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,0,16-23,999
+157,23.0,2,,1,1,0,0,0,more than 1000,1,16-23,999
+158,38.0,1,,1,1,1,1,0,,0,31-45,999
+159,45.0,1,,1,1,1,0,1,01-5,1,31-45,999
+160,35.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc), Obsessive-Compulsive Disorder, Stress Response Syndromes, Addictive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc), Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,1,0,,0,31-45,999
+161,51.0,1,,1,1,1,1,0,,0,46-55,999
+162,34.0,0,,0,0,1,1,0,,0,31-45,999
+163,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Post-traumatic Stress Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,26-100,1,24-30,03
+164,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,31-45,03
+165,38.0,1,"Obsessive-Compulsive Disorder, Addictive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,1,0,,0,31-45,999
+166,32.0,1,,1,1,1,0,1,26-100,1,31-45,03
+167,22.0,0,,1,1,1,0,1,more than 1000,1,16-23,999
+168,28.0,1,,1,1,1,0,1,01-5,1,24-30,999
+169,29.0,0,,1,1,0,0,1,more than 1000,1,24-30,999
+170,32.0,1,,0,0,0,1,0,,0,31-45,999
+171,38.0,0,,1,1,1,0,1,100-500,1,31-45,04
+172,30.0,1,,0,0,0,0,1,26-100,1,24-30,03
+173,37.0,0,,1,1,1,0,0,more than 1000,1,31-45,999
+174,38.0,0,,1,1,1,0,1,more than 1000,1,31-45,999
+175,51.0,0,,1,1,1,0,1,100-500,1,46-55,04
+176,39.0,1,,1,1,1,0,0,more than 1000,1,31-45,999
+177,22.0,1,,0,0,0,0,0,more than 1000,1,16-23,999
+178,26.0,1,,1,1,1,0,1,more than 1000,1,24-30,999
+179,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc), Attention Deficit Hyperactivity Disorder",0,0,1,0,0,100-500,1,31-45,04
+180,49.0,1,,1,1,0,0,0,100-500,1,46-55,04
+181,48.0,1,,0,0,1,0,1,more than 1000,1,46-55,999
+182,25.0,1,,0,0,1,0,0,more than 1000,1,24-30,999
+183,31.0,1,,1,1,0,0,1,05-25,1,31-45,999
+184,63.0,1,,0,0,0,0,1,01-5,1,56+,999
+185,30.0,0,,0,0,0,0,1,more than 1000,1,24-30,999
+186,34.0,1,,0,0,0,0,1,100-500,1,31-45,04
+187,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Personality Disorder (Borderline, Antisocial, Paranoid, etc), Obsessive-Compulsive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,1,31-45,04
+188,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Eating Disorder (Anorexia, Bulimia, etc)",0,0,1,0,0,more than 1000,1,31-45,999
+189,29.0,0,,0,0,1,0,0,more than 1000,1,24-30,999
+190,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,more than 1000,1,24-30,999
+191,44.0,2,,1,1,1,1,0,,0,31-45,999
+192,32.0,1,"Substance Use Disorder, Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+193,28.0,1,,0,0,1,0,0,more than 1000,1,24-30,999
+194,36.0,1,,1,1,0,0,0,more than 1000,1,31-45,999
+195,28.0,0,,0,0,1,0,1,more than 1000,1,24-30,999
+196,30.0,0,,1,1,1,1,0,,0,24-30,999
+197,36.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+198,40.0,1,,1,1,1,0,1,05-25,1,31-45,999
+199,27.0,1,,0,0,0,0,1,100-500,1,24-30,04
+200,28.0,0,,1,1,1,0,0,more than 1000,1,24-30,999
+201,34.0,1,,1,1,1,0,1,more than 1000,1,31-45,999
+202,34.0,1,,1,1,0,0,1,05-25,1,31-45,999
+203,34.0,0,,1,1,1,1,0,,0,31-45,999
+204,27.0,0,,1,1,1,0,1,100-500,0,24-30,04
+205,44.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,0,31-45,999
+206,36.0,1,,1,1,0,0,0,100-500,1,31-45,04
+207,31.0,0,,1,1,1,0,0,more than 1000,1,31-45,999
+208,26.0,0,,1,1,0,0,1,100-500,1,24-30,04
+209,39.0,1,,0,0,0,0,1,05-25,1,31-45,999
+210,36.0,0,,1,1,1,0,0,more than 1000,1,31-45,999
+211,25.0,0,,1,1,1,0,1,05-25,1,24-30,999
+212,47.0,1,,1,1,0,0,0,more than 1000,1,46-55,999
+213,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+214,33.0,1,,0,0,0,0,1,26-100,1,31-45,03
+215,59.0,0,,0,0,0,1,0,,0,56+,999
+216,39.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Attention Deficit Hyperactivity Disorder",0,0,1,0,1,100-500,1,31-45,04
+217,19.0,0,,1,1,0,0,1,100-500,1,16-23,04
+218,35.0,1,,1,1,1,0,0,05-25,1,31-45,999
+219,38.0,1,,1,1,1,0,1,26-100,1,31-45,03
+220,23.0,1,,0,0,0,0,1,100-500,1,16-23,04
+221,32.0,1,,1,1,1,0,0,more than 1000,0,31-45,999
+222,39.0,1,,1,1,1,1,0,,0,31-45,999
+223,33.0,1,,0,0,0,0,0,more than 1000,0,31-45,999
+224,38.0,0,,1,1,0,0,1,500-1000,1,31-45,05
+225,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,26-100,1,31-45,03
+226,39.0,0,"Attention Deficit Hyperactivity Disorder, Stress Response Syndromes",0,0,0,0,1,500-1000,0,31-45,05
+227,30.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+228,39.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Obsessive-Compulsive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,31-45,04
+229,50.0,1,,0,0,1,0,1,500-1000,1,46-55,05
+230,43.0,2,,0,0,0,0,0,100-500,0,31-45,04
+231,59.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,56+,999
+232,53.0,1,,1,1,1,0,0,more than 1000,1,46-55,999
+233,35.0,1,,0,0,0,0,1,05-25,1,31-45,999
+234,27.0,0,,0,0,1,0,1,05-25,0,24-30,999
+235,24.0,0,"Stress Response Syndromes, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,05-25,1,24-30,999
+236,29.0,1,,1,1,1,0,1,05-25,1,24-30,999
+237,40.0,0,,1,1,1,0,1,more than 1000,1,31-45,999
+238,27.0,1,,0,0,0,0,1,100-500,1,24-30,04
+239,46.0,1,,0,0,1,1,0,,0,46-55,999
+240,39.0,1,,1,1,0,0,1,100-500,1,31-45,04
+241,19.0,1,,0,0,0,1,0,,0,16-23,999
+242,28.0,1,,0,0,0,0,1,500-1000,1,24-30,05
+243,30.0,1,,0,0,1,0,0,more than 1000,0,24-30,999
+244,29.0,0,,1,1,0,0,1,more than 1000,0,24-30,999
+245,24.0,1,,0,0,0,0,0,more than 1000,1,24-30,999
+246,25.0,0,,1,1,1,0,1,more than 1000,1,24-30,999
+247,45.0,1,,0,0,0,0,0,500-1000,1,31-45,05
+248,37.0,1,,1,1,0,0,1,more than 1000,1,31-45,999
+249,22.0,1,,0,0,1,0,1,05-25,1,16-23,999
+250,35.0,0,,1,1,1,0,1,500-1000,1,31-45,05
+251,50.0,1,,1,1,1,0,0,more than 1000,1,46-55,999
+252,45.0,1,,1,1,0,0,1,more than 1000,1,31-45,999
+253,49.0,1,,1,1,0,0,0,100-500,1,46-55,04
+254,40.0,1,,0,0,0,0,0,100-500,1,31-45,04
+255,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Personality Disorder (Borderline, Antisocial, Paranoid, etc), Obsessive-Compulsive Disorder, Addictive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,1,0,,0,31-45,999
+256,38.0,0,,0,0,0,0,1,500-1000,1,31-45,05
+257,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,more than 1000,1,31-45,999
+258,28.0,0,"Attention Deficit Hyperactivity Disorder, Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,24-30,04
+259,25.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+260,28.0,1,,0,0,1,1,0,,0,24-30,999
+261,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorder",0,0,1,0,1,05-25,1,31-45,999
+262,25.0,1,,0,0,0,0,1,26-100,1,24-30,03
+263,49.0,1,,0,0,0,0,1,05-25,0,46-55,999
+264,19.0,1,,0,0,0,0,0,more than 1000,1,16-23,999
+265,43.0,1,,0,0,0,1,0,,0,31-45,999
+266,31.0,1,,0,0,0,0,0,500-1000,1,31-45,05
+267,30.0,1,,1,1,1,0,0,more than 1000,1,24-30,999
+268,39.0,1,,1,1,1,0,0,more than 1000,1,31-45,999
+269,22.0,1,,1,1,0,0,0,100-500,1,16-23,04
+270,29.0,1,,1,1,1,0,0,more than 1000,1,24-30,999
+271,30.0,1,,1,1,1,1,0,,0,24-30,999
+272,32.0,1,,1,1,0,0,1,26-100,1,31-45,03
+273,41.0,1,,1,1,1,0,0,more than 1000,1,31-45,999
+274,27.0,0,"Personality Disorder (Borderline, Antisocial, Paranoid, etc), Stress Response Syndromes, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,24-30,999
+275,19.0,0,"Stress Response Syndromes, Anxiety Disorder (Generalized, Social, Phobia, etc), Eating Disorder (Anorexia, Bulimia, etc), Mood Disorder (Depression, Bipolar Disorder, etc), Post-traumatic Stress Disorder, Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,1,0,,0,16-23,999
+276,27.0,1,,1,1,0,0,1,500-1000,1,24-30,05
+277,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Post-traumatic Stress Disorder, Personality Disorder (Borderline, Antisocial, Paranoid, etc), Obsessive-Compulsive Disorder, Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,1,0,,0,31-45,999
+278,25.0,0,,0,0,0,1,0,,0,24-30,999
+279,36.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+280,28.0,0,,1,1,1,0,0,05-25,0,24-30,999
+281,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc), Obsessive-Compulsive Disorder",0,0,0,0,1,500-1000,1,24-30,05
+282,47.0,2,,1,1,1,0,1,26-100,1,46-55,03
+283,25.0,1,,1,1,0,0,1,26-100,1,24-30,03
+284,30.0,0,,0,0,0,0,1,100-500,1,24-30,04
+285,45.0,1,,1,1,1,0,0,100-500,1,31-45,04
+286,41.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc), Substance Use Disorder, Personality Disorder (Borderline, Antisocial, Paranoid, etc), Addictive Disorder",0,0,1,1,0,,0,31-45,999
+287,24.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,05-25,1,24-30,999
+288,26.0,0,,0,0,0,0,1,more than 1000,1,24-30,999
+289,32.0,0,,1,1,1,0,1,more than 1000,1,31-45,999
+290,43.0,0,,1,1,1,0,1,more than 1000,1,31-45,999
+291,37.0,1,,0,0,0,1,0,,0,31-45,999
+292,51.0,2,,1,1,1,0,0,500-1000,1,46-55,05
+293,56.0,1,,0,0,0,1,0,,0,56+,999
+294,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,500-1000,1,24-30,05
+295,48.0,2,,0,0,1,0,1,26-100,1,46-55,03
+296,28.0,0,,1,1,0,0,1,100-500,1,24-30,04
+297,26.0,0,,1,1,0,0,1,05-25,1,24-30,999
+298,45.0,1,,0,0,0,0,0,05-25,1,31-45,999
+299,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+300,42.0,0,,1,1,0,0,1,100-500,1,31-45,04
+301,34.0,1,,1,1,0,0,1,26-100,1,31-45,03
+302,35.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+303,28.0,1,,1,1,0,0,0,more than 1000,1,24-30,999
+304,26.0,1,,0,0,0,0,1,26-100,1,24-30,03
+305,34.0,0,,0,0,0,0,0,100-500,1,31-45,04
+306,28.0,2,,0,0,0,0,1,more than 1000,1,24-30,999
+307,34.0,0,,0,0,1,0,1,100-500,1,31-45,04
+308,45.0,1,,0,0,0,1,0,,0,31-45,999
+309,59.0,0,"Post-traumatic Stress Disorder, Dissociative Disorder, Stress Response Syndromes, Eating Disorder (Anorexia, Bulimia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,56+,999
+310,41.0,1,,1,1,1,0,1,26-100,1,31-45,03
+311,38.0,2,,1,1,1,0,0,more than 1000,1,31-45,999
+312,42.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+313,21.0,1,,1,1,1,0,1,100-500,1,16-23,04
+314,30.0,0,,0,0,1,0,1,26-100,0,24-30,03
+315,46.0,1,,1,1,0,0,1,100-500,1,46-55,04
+316,36.0,0,,1,1,1,1,0,,0,31-45,999
+317,41.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+318,33.0,0,,1,1,0,1,0,,0,31-45,999
+319,41.0,1,,1,1,0,0,1,01-5,0,31-45,999
+320,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,more than 1000,1,24-30,999
+321,27.0,2,,1,1,1,0,1,05-25,1,24-30,999
+322,47.0,0,,1,1,0,0,1,more than 1000,1,46-55,999
+323,24.0,1,,1,1,0,0,1,26-100,1,24-30,03
+324,40.0,1,,1,1,0,0,1,more than 1000,1,31-45,999
+325,37.0,1,,0,0,0,0,1,100-500,1,31-45,04
+326,38.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+327,47.0,1,,0,0,0,0,1,more than 1000,1,46-55,999
+328,30.0,0,,1,1,1,0,1,more than 1000,1,24-30,999
+329,24.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,26-100,1,24-30,03
+330,38.0,0,,1,1,1,0,0,more than 1000,1,31-45,999
+331,42.0,1,,1,1,1,0,1,05-25,1,31-45,999
+332,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+333,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc), Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+334,47.0,1,,1,1,1,0,0,more than 1000,1,46-55,999
+335,29.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+336,55.0,1,,0,0,1,0,1,more than 1000,1,46-55,999
+337,34.0,2,,1,1,1,0,1,500-1000,0,31-45,05
+338,45.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+339,46.0,1,,0,0,1,0,0,more than 1000,1,46-55,999
+340,23.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc), Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,1,16-23,999
+341,22.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,100-500,1,16-23,04
+342,30.0,1,,1,1,1,0,1,26-100,1,24-30,03
+343,27.0,1,,1,1,0,1,0,,0,24-30,999
+344,42.0,0,,1,1,1,0,1,100-500,1,31-45,04
+345,26.0,2,,0,0,1,0,1,26-100,1,24-30,03
+346,31.0,0,,0,0,0,0,1,05-25,1,31-45,999
+347,27.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,1,24-30,999
+348,48.0,1,,0,0,0,1,0,,0,46-55,999
+349,50.0,1,,0,0,0,1,0,,0,46-55,999
+350,30.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,24-30,999
+351,24.0,0,,1,1,1,0,1,more than 1000,1,24-30,999
+0,57.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,0,56+,999
+1,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+2,46.0,1,,0,0,1,0,0,05-25,1,46-55,999
+3,34.0,1,,0,0,0,0,1,05-25,1,31-45,999
+4,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,26-100,1,24-30,03
+5,55.0,1,,0,0,0,0,1,100-500,1,46-55,04
+6,29.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,24-30,999
+7,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,0,0,1,26-100,1,31-45,03
+8,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+9,37.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+10,45.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+11,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,0,500-1000,1,31-45,05
+12,38.0,0,,0,0,1,1,0,,0,31-45,999
+13,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,more than 1000,1,24-30,999
+14,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,24-30,04
+15,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,05-25,1,31-45,999
+16,47.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Disorder (Non-Hyperactive)",1,1,1,0,0,26-100,1,46-55,03
+17,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+18,32.0,1,,0,0,1,0,0,500-1000,1,31-45,05
+19,46.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,0,1,0,,0,46-55,999
+20,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,1,31-45,03
+21,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+22,29.0,1,,0,0,1,1,0,,0,24-30,999
+23,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+24,30.0,1,,0,0,0,0,0,05-25,1,24-30,999
+25,46.0,1,,0,0,0,0,1,05-25,1,46-55,999
+26,29.0,1,,0,0,0,0,1,26-100,1,24-30,03
+27,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,24-30,999
+28,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Aspergers Syndrome",1,1,1,1,0,,0,24-30,999
+29,44.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,05-25,1,31-45,999
+30,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Stress Response Syndromes/Dissociative Disorder",0,0,0,0,1,26-100,1,31-45,03
+31,34.0,1,,0,0,0,0,1,100-500,1,31-45,04
+32,19.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Substance Use Disorder",0,0,0,0,1,500-1000,1,16-23,05
+33,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Stress Response Syndromes",1,1,1,0,0,more than 1000,1,31-45,999
+34,61.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,05-25,1,56+,999
+35,44.0,1,,0,0,0,0,1,05-25,1,31-45,999
+36,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+37,31.0,1,,0,0,0,0,0,100-500,1,31-45,04
+38,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,26-100,0,24-30,03
+39,52.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,46-55,999
+40,44.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+41,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder/Substance Use Disorder/Addictive Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+42,36.0,1,,0,0,1,1,0,,0,31-45,999
+43,30.0,2,,0,0,0,1,0,,0,24-30,999
+44,39.0,1,,0,0,0,0,0,26-100,1,31-45,03
+45,33.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+46,37.0,1,,0,0,0,1,0,,0,31-45,999
+47,34.0,1,Stress Response Syndromes,0,0,0,0,0,26-100,1,31-45,03
+48,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Stress Response Syndromes",0,0,0,0,1,26-100,1,24-30,03
+49,43.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+50,42.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+51,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+52,28.0,0,,0,0,1,0,1,more than 1000,1,24-30,999
+53,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,31-45,04
+54,35.0,0,Attention Deficit Hyperactivity Disorder,1,1,1,0,1,500-1000,1,31-45,05
+55,31.0,1,,0,0,0,0,1,05-25,1,31-45,999
+56,24.0,1,,0,0,0,1,0,,0,24-30,999
+57,27.0,0,,0,0,0,0,1,500-1000,1,24-30,05
+58,36.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+59,33.0,1,,0,0,0,0,1,05-25,1,31-45,999
+60,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,1,0,,0,24-30,999
+61,26.0,1,,0,0,0,0,0,more than 1000,1,24-30,999
+62,24.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,more than 1000,1,24-30,999
+63,34.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,0,1,more than 1000,1,31-45,999
+64,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,24-30,03
+65,19.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,16-23,999
+66,28.0,1,,0,0,0,0,1,26-100,1,24-30,03
+67,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+68,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,01-5,1,31-45,999
+69,23.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,0,0,0,500-1000,1,16-23,05
+70,46.0,1,,0,0,1,0,0,more than 1000,1,46-55,999
+71,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,05-25,1,24-30,999
+72,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,31-45,999
+73,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Substance Use Disorder",1,1,0,0,1,05-25,1,24-30,999
+74,26.0,1,,0,0,0,0,1,05-25,1,24-30,999
+75,37.0,0,,0,0,0,0,1,05-25,1,31-45,999
+76,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,100-500,1,31-45,04
+77,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,100-500,1,24-30,04
+78,29.0,0,,0,0,0,0,1,26-100,1,24-30,03
+79,57.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,56+,999
+80,38.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+81,20.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,0,0,1,more than 1000,1,16-23,999
+82,41.0,1,,0,0,1,0,1,05-25,1,31-45,999
+83,43.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,05-25,1,31-45,999
+84,35.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,more than 1000,1,31-45,999
+85,40.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",0,0,1,0,1,05-25,1,31-45,999
+86,28.0,1,,0,0,0,0,0,26-100,0,24-30,03
+87,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)/Substance Use Disorder/Addictive Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+88,39.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+89,28.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,0,0,more than 1000,1,24-30,999
+90,22.0,1,,0,0,0,0,1,05-25,1,16-23,999
+91,29.0,0,,0,0,1,0,1,100-500,1,24-30,04
+92,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+93,27.0,0,,0,0,1,0,1,more than 1000,1,24-30,999
+94,32.0,0,,0,0,0,0,0,26-100,1,31-45,03
+95,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,500-1000,1,24-30,05
+96,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+97,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes/Addictive Disorder",1,1,0,1,0,,0,24-30,999
+98,24.0,0,,0,0,0,0,0,more than 1000,1,24-30,999
+99,27.0,0,,0,0,1,0,0,more than 1000,1,24-30,999
+100,36.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+101,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+102,27.0,0,,0,0,0,1,0,,0,24-30,999
+103,53.0,0,,0,0,1,0,1,100-500,1,46-55,04
+104,32.0,1,,0,0,0,0,1,100-500,1,31-45,04
+105,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,01-5,1,24-30,999
+106,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,05-25,1,24-30,999
+107,47.0,1,,0,0,0,0,1,26-100,1,46-55,03
+108,36.0,1,,0,0,0,1,0,,0,31-45,999
+109,61.0,1,,0,0,1,0,0,more than 1000,1,56+,999
+110,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/ADHD",0,0,0,0,1,05-25,1,24-30,999
+111,31.0,1,Attention Deficit Hyperactivity Disorder,0,0,1,0,0,500-1000,1,31-45,05
+112,35.0,1,,0,0,0,0,1,05-25,1,31-45,999
+113,40.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,0,1,26-100,1,31-45,03
+114,32.0,1,,0,0,0,1,0,,0,31-45,999
+115,41.0,1,,0,0,0,0,1,26-100,1,31-45,03
+116,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,05-25,1,31-45,999
+117,31.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+118,35.0,0,Post-traumatic Stress Disorder/Dissociative Disorder/ADD,1,1,0,0,0,more than 1000,1,31-45,999
+119,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,500-1000,1,24-30,05
+120,42.0,0,,0,0,1,0,1,100-500,1,31-45,04
+121,67.0,0,,0,0,0,1,0,,0,56+,999
+122,56.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,1,0,0,more than 1000,1,56+,999
+123,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,05-25,1,24-30,999
+124,37.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+125,40.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,0,1,0,,0,31-45,999
+126,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,24-30,03
+127,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,more than 1000,1,31-45,999
+128,30.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,24-30,999
+129,31.0,1,,0,0,0,0,1,05-25,1,31-45,999
+130,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,1,0,,0,31-45,999
+131,46.0,1,,0,0,1,0,1,05-25,1,46-55,999
+132,45.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,500-1000,1,31-45,05
+133,25.0,1,Addictive Disorder,0,0,0,1,0,,0,24-30,999
+134,38.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder/Multiple Sclerosis & Mental Health",1,1,1,0,0,more than 1000,1,31-45,999
+135,41.0,1,,0,0,0,0,1,26-100,1,31-45,03
+136,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+137,33.0,0,,0,0,0,0,1,26-100,1,31-45,03
+138,28.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,26-100,1,24-30,03
+139,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+140,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,0,24-30,03
+141,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,0,500-1000,1,24-30,05
+142,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+143,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+144,37.0,2,,0,0,1,1,0,,0,31-45,999
+145,42.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+146,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,100-500,0,24-30,04
+147,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+148,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,05-25,1,24-30,999
+149,54.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,46-55,999
+150,24.0,1,,0,0,0,1,0,,0,24-30,999
+151,32.0,1,,0,0,0,1,0,,0,31-45,999
+152,44.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+153,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,500-1000,1,24-30,05
+154,41.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder/Dissociative Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+155,38.0,1,,0,0,0,0,0,26-100,1,31-45,03
+156,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,1,31-45,04
+157,36.0,1,,0,0,1,0,0,100-500,1,31-45,04
+158,33.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+159,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,0,0,0,more than 1000,1,31-45,999
+160,31.0,1,,0,0,0,1,0,,0,31-45,999
+161,43.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+162,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,26-100,1,31-45,03
+163,44.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Addictive Disorder",0,0,1,0,1,01-5,1,31-45,999
+164,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Codependence",1,1,1,0,1,500-1000,1,31-45,05
+165,55.0,1,,0,0,0,0,1,01-5,1,46-55,999
+166,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder",0,0,0,0,1,100-500,1,24-30,04
+167,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+168,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+169,23.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,16-23,999
+170,34.0,0,,0,0,0,1,0,,0,31-45,999
+171,43.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+172,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,05-25,1,24-30,999
+173,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",0,0,1,0,1,05-25,1,24-30,999
+174,36.0,1,,0,0,0,0,1,05-25,1,31-45,999
+175,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+176,34.0,1,,0,0,1,0,1,100-500,1,31-45,04
+177,28.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+178,54.0,2,,0,0,1,0,0,100-500,1,46-55,04
+179,39.0,1,,0,0,0,0,0,26-100,1,31-45,03
+180,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+181,29.0,1,,0,0,1,0,1,26-100,1,24-30,03
+182,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+183,49.0,1,Substance Use Disorder/Addictive Disorder,1,1,0,0,1,more than 1000,1,46-55,999
+184,43.0,1,,0,0,1,0,1,100-500,1,31-45,04
+185,38.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Addictive Disorder",1,1,1,0,0,500-1000,1,31-45,05
+186,35.0,0,,0,0,1,0,1,100-500,1,31-45,04
+187,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,16-23,999
+188,42.0,1,,0,0,1,0,1,26-100,1,31-45,03
+189,36.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+190,38.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+191,41.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Addictive Disorder",0,0,0,0,1,more than 1000,1,31-45,999
+192,37.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+193,25.0,1,,1,1,1,0,1,26-100,1,24-30,03
+194,33.0,1,,0,0,1,0,1,100-500,1,31-45,04
+195,35.0,2,,0,0,1,0,1,100-500,1,31-45,04
+196,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+197,45.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,1,0,,0,31-45,999
+198,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,100-500,1,24-30,04
+199,40.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+200,34.0,1,,0,0,0,0,1,100-500,1,31-45,04
+201,28.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+202,49.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,more than 1000,1,46-55,999
+203,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,100-500,1,31-45,04
+204,41.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+205,36.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,26-100,1,31-45,03
+206,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+207,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,05-25,1,31-45,999
+208,49.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",0,0,1,0,1,100-500,1,46-55,04
+209,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+210,29.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,1,0,1,05-25,1,24-30,999
+211,34.0,1,,0,0,0,1,0,,0,31-45,999
+212,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,100-500,1,24-30,04
+213,25.0,1,,0,0,0,0,1,26-100,1,24-30,03
+214,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,0,100-500,1,31-45,04
+215,32.0,1,,0,0,0,1,0,,0,31-45,999
+216,21.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,05-25,1,16-23,999
+217,43.0,1,,0,0,0,0,1,05-25,1,31-45,999
+218,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+219,27.0,0,Attention Deficit Hyperactivity Disorder,1,1,1,0,1,26-100,1,24-30,03
+220,23.0,1,"Eating Disorder (Anorexia, Bulimia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,05-25,1,16-23,999
+221,28.0,1,,0,0,1,0,0,more than 1000,1,24-30,999
+222,37.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+223,30.0,1,,0,0,0,0,1,05-25,1,24-30,999
+224,30.0,1,,0,0,0,0,1,05-25,1,24-30,999
+225,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Dissociative Disorder",1,1,0,0,1,100-500,1,24-30,04
+226,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,31-45,999
+227,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+228,45.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,0,31-45,999
+229,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder/Addictive Disorder",1,1,1,0,1,500-1000,1,31-45,05
+230,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,0,31-45,04
+231,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Stress Response Syndromes",0,0,1,0,1,100-500,1,24-30,04
+232,33.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+233,32.0,1,,0,0,1,0,1,26-100,1,31-45,03
+234,28.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,500-1000,1,24-30,05
+235,28.0,1,,0,0,1,0,1,05-25,1,24-30,999
+236,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,500-1000,1,31-45,05
+237,28.0,0,Stress Response Syndromes,0,0,0,0,1,100-500,1,24-30,04
+238,28.0,0,,0,0,1,0,1,100-500,1,24-30,04
+239,43.0,1,,0,0,0,0,1,26-100,1,31-45,03
+240,31.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+241,40.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,500-1000,1,31-45,05
+242,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",0,0,0,0,0,more than 1000,1,31-45,999
+243,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,26-100,1,31-45,03
+244,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+245,21.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,05-25,1,16-23,999
+246,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",0,0,1,0,1,100-500,1,31-45,04
+247,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,1,0,1,05-25,1,31-45,999
+248,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+249,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,1,0,,0,31-45,999
+250,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,24-30,999
+251,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,500-1000,1,24-30,05
+252,37.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+253,40.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,100-500,1,31-45,04
+254,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,26-100,0,31-45,03
+255,47.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,1,0,,0,46-55,999
+256,26.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,24-30,04
+257,27.0,0,Obsessive-Compulsive Disorder,1,1,1,0,0,26-100,1,24-30,03
+258,46.0,1,,0,0,0,0,1,05-25,1,46-55,999
+259,22.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,16-23,999
+260,37.0,0,,0,0,1,0,1,26-100,1,31-45,03
+261,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,0,24-30,04
+262,28.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",0,0,1,0,0,more than 1000,1,24-30,999
+263,32.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+264,33.0,1,,0,0,1,0,1,100-500,1,31-45,04
+265,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+266,38.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+267,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,31-45,999
+268,28.0,0,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,05-25,1,24-30,999
+269,32.0,0,,0,0,0,0,0,more than 1000,1,31-45,999
+270,30.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",0,0,0,0,0,26-100,1,24-30,03
+271,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,0,24-30,04
+272,41.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,0,more than 1000,1,31-45,999
+273,39.0,0,,0,0,0,0,1,100-500,1,31-45,04
+274,37.0,2,,0,0,0,0,1,100-500,1,31-45,04
+275,21.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",0,0,0,0,0,more than 1000,1,16-23,999
+276,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,1,0,,0,31-45,999
+277,35.0,0,,0,0,0,0,0,100-500,1,31-45,04
+278,33.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+279,38.0,1,,0,0,0,0,1,26-100,1,31-45,03
+280,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,05-25,1,24-30,999
+281,25.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,500-1000,0,24-30,05
+282,41.0,0,,0,0,1,0,1,100-500,1,31-45,04
+283,37.0,0,Attention Deficit Hyperactivity Disorder/Gender Dysphoria,1,1,1,0,1,26-100,1,31-45,03
+284,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,24-30,999
+285,45.0,0,,0,0,0,0,1,100-500,1,31-45,04
+286,45.0,2,,0,0,0,0,1,05-25,1,31-45,999
+287,45.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,31-45,04
+288,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+289,27.0,1,,0,0,0,0,1,05-25,1,24-30,999
+290,36.0,1,,0,0,0,0,0,05-25,1,31-45,999
+291,44.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,500-1000,0,31-45,05
+292,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+293,42.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder/Stress Response Syndromes",0,0,1,0,1,05-25,1,31-45,999
+294,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+295,33.0,0,,0,0,1,1,0,,0,31-45,999
+296,25.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",0,0,1,0,1,100-500,1,24-30,04
+297,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+298,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,500-1000,1,31-45,05
+299,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+300,29.0,0,,0,0,0,0,1,more than 1000,1,24-30,999
+301,43.0,1,,0,0,0,0,1,26-100,1,31-45,03
+302,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Stress Response Syndromes/Addictive Disorder",0,0,0,1,0,,0,31-45,999
+303,26.0,1,,0,0,0,0,0,500-1000,1,24-30,05
+304,46.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,1,46-55,03
+305,35.0,0,Post-traumatic Stress Disorder,1,1,1,1,0,,0,31-45,999
+306,37.0,1,,0,0,1,1,0,,0,31-45,999
+307,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,500-1000,1,24-30,05
+308,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,26-100,1,31-45,03
+309,31.0,0,Cyclothymia,1,1,0,0,0,more than 1000,1,31-45,999
+310,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,05-25,1,31-45,999
+311,41.0,1,,0,0,0,1,0,,0,31-45,999
+312,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+313,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder/Addictive Disorder",0,0,0,0,0,more than 1000,1,24-30,999
+314,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,31-45,04
+315,36.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,31-45,04
+316,35.0,1,,0,0,0,0,1,26-100,1,31-45,03
+317,45.0,1,,0,0,0,0,0,100-500,1,31-45,04
+318,23.0,1,,0,0,0,0,1,05-25,1,16-23,999
+319,26.0,1,,0,0,0,0,1,05-25,1,24-30,999
+320,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,1,0,,0,16-23,999
+321,26.0,1,,0,0,0,0,0,05-25,1,24-30,999
+322,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,05-25,1,31-45,999
+323,22.0,1,,0,0,0,0,1,05-25,1,16-23,999
+324,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,05-25,1,31-45,999
+325,40.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,500-1000,1,31-45,05
+326,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder/Addictive Disorder",0,0,1,0,0,500-1000,1,31-45,05
+327,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,26-100,1,31-45,03
+328,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+329,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+330,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,100-500,1,31-45,04
+331,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,500-1000,1,24-30,05
+332,38.0,1,,0,0,0,0,0,05-25,1,31-45,999
+333,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+334,23.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,16-23,999
+335,51.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,more than 1000,1,46-55,999
+336,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,24-30,03
+337,19.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,500-1000,1,16-23,05
+338,44.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+339,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,500-1000,1,31-45,05
+340,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,24-30,03
+341,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Adjustment disorder",1,1,0,0,0,500-1000,1,31-45,05
+342,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,24-30,03
+343,40.0,1,Bipolar,1,1,1,1,0,,0,31-45,999
+344,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+345,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,31-45,04
+346,44.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+347,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+348,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,100-500,1,31-45,04
+349,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,05-25,1,31-45,999
+350,57.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,1,0,,0,56+,999
+351,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",0,0,1,0,0,100-500,1,24-30,04
+352,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Post-traumatic Stress Disorder/Addictive Disorder",1,1,0,0,1,26-100,1,31-45,03
+353,34.0,1,,0,0,0,1,0,,0,31-45,999
+354,35.0,1,,0,0,0,0,1,26-100,1,31-45,03
+355,30.0,1,,0,0,0,0,1,100-500,1,24-30,04
+356,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Substance Use Disorder",1,1,0,0,1,26-100,1,24-30,03
+357,35.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,1,0,,0,31-45,999
+358,40.0,1,,0,0,1,0,1,26-100,1,31-45,03
+359,39.0,1,,0,0,0,0,0,26-100,1,31-45,03
+360,24.0,1,,0,0,1,0,1,26-100,1,24-30,03
+361,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",0,0,0,0,1,100-500,1,31-45,04
+362,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder",0,0,1,0,1,26-100,1,31-45,03
+363,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+364,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,31-45,04
+365,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+366,36.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+367,47.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,0,26-100,1,46-55,03
+368,42.0,1,,0,0,0,0,1,26-100,1,31-45,03
+369,29.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+370,38.0,0,,0,0,0,1,0,,0,31-45,999
+371,30.0,1,,0,0,0,0,1,05-25,0,24-30,999
+372,30.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,1,0,,0,24-30,999
+373,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,05-25,1,31-45,999
+374,24.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder",1,1,0,0,0,more than 1000,0,24-30,999
+375,41.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,more than 1000,1,31-45,999
+376,48.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,46-55,04
+377,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+378,65.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,56+,04
+379,34.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+380,55.0,0,,0,0,0,0,1,100-500,1,46-55,04
+381,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+382,41.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+383,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,0,more than 1000,1,24-30,999
+384,27.0,0,,0,0,1,0,0,100-500,1,24-30,04
+385,30.0,1,,0,0,0,0,1,26-100,1,24-30,03
+386,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+387,61.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,05-25,1,56+,999
+388,45.0,1,,0,0,1,1,0,,0,31-45,999
+389,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+390,41.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+391,39.0,1,,0,0,0,0,1,26-100,1,31-45,03
+392,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,500-1000,1,24-30,05
+393,46.0,1,,0,0,1,0,0,more than 1000,1,46-55,999
+394,42.0,1,,0,0,1,0,1,05-25,1,31-45,999
+395,29.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+396,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+397,52.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,1,0,,0,46-55,999
+398,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+399,34.0,1,,0,0,0,0,1,26-100,1,31-45,03
+400,50.0,1,,0,0,0,1,0,,0,46-55,999
+401,51.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,46-55,999
+402,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,31-45,03
+403,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+404,24.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,26-100,1,24-30,03
+405,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+406,24.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,26-100,1,24-30,03
+407,46.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,01-5,0,46-55,999
+408,31.0,1,Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder,0,0,0,0,1,more than 1000,1,31-45,999
+409,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+410,40.0,1,,0,0,1,0,1,100-500,1,31-45,04
+411,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,05-25,1,24-30,999
+412,28.0,1,,0,0,1,0,1,05-25,1,24-30,999
+413,39.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,0,100-500,1,31-45,04
+414,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,100-500,1,31-45,04
+415,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Asperger's",0,0,0,0,1,05-25,1,24-30,999
+416,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,0,more than 1000,1,31-45,999
+0,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,24-30,04
+1,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+2,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,1,0,1,05-25,1,31-45,999
+3,22.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,more than 1000,1,16-23,999
+4,52.0,0,,0,0,1,1,0,,0,46-55,999
+5,30.0,1,,0,0,1,0,1,100-500,0,24-30,04
+6,36.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,05-25,1,31-45,999
+7,38.0,0,,0,0,1,0,1,26-100,1,31-45,03
+8,35.0,1,,0,0,0,0,0,100-500,1,31-45,04
+9,36.0,1,Attention Deficit Hyperactivity Disorder,0,0,0,1,0,,0,31-45,999
+10,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,100-500,1,31-45,04
+11,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Substance Use Disorder/Addictive Disorder",1,1,1,0,1,100-500,1,31-45,04
+12,23.0,1,,0,0,0,0,1,more than 1000,1,16-23,999
+13,22.0,0,,0,0,0,0,1,more than 1000,1,16-23,999
+14,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,26-100,0,31-45,03
+15,28.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,0,100-500,1,24-30,04
+16,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",0,0,0,0,0,26-100,1,31-45,03
+17,53.0,1,,0,0,0,1,0,,0,46-55,999
+18,21.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,05-25,1,16-23,999
+19,35.0,0,,0,0,1,0,0,more than 1000,1,31-45,999
+20,22.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,05-25,1,16-23,999
+21,18.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,0,100-500,0,16-23,04
+22,37.0,0,Post-traumatic Stress Disorder,1,1,1,0,0,26-100,1,31-45,03
+23,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,01-5,1,24-30,999
+24,40.0,1,,0,0,0,0,1,100-500,1,31-45,04
+25,33.0,1,,0,0,1,0,1,05-25,1,31-45,999
+26,66.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,56+,999
+27,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,100-500,1,31-45,04
+28,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+29,46.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder/Stress Response Syndromes/Dissociative Disorder/Substance Use Disorder/Addictive Disorder",1,1,0,1,0,,0,46-55,999
+30,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,100-500,1,24-30,04
+31,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder/Addictive Disorder",1,1,0,0,1,100-500,1,31-45,04
+32,46.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,46-55,04
+33,29.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,0,1,0,,0,24-30,999
+34,28.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,24-30,999
+35,34.0,0,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,0,0,0,05-25,1,31-45,999
+36,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,24-30,03
+37,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Addictive Disorder",1,1,0,0,0,100-500,1,31-45,04
+38,25.0,2,,0,0,1,1,0,,0,24-30,999
+39,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",0,0,0,0,1,100-500,1,31-45,04
+40,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,100-500,1,31-45,04
+41,39.0,1,,0,0,1,0,0,100-500,1,31-45,04
+42,33.0,1,Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder,1,1,1,0,1,500-1000,1,31-45,05
+43,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Substance Use Disorder",0,0,0,0,1,100-500,1,31-45,04
+44,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,500-1000,1,31-45,05
+45,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+46,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Dissociative Disorder",1,1,0,0,0,more than 1000,1,24-30,999
+47,43.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+48,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Stress Response Syndromes",0,0,0,0,0,05-25,1,24-30,999
+49,39.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,0,26-100,1,31-45,03
+50,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Substance Use Disorder/Addictive Disorder",1,1,1,0,1,05-25,1,31-45,999
+51,37.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Addictive Disorder",1,1,1,0,1,05-25,1,31-45,999
+52,38.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,500-1000,1,31-45,05
+53,47.0,1,,0,0,0,0,1,more than 1000,1,46-55,999
+54,64.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Stress Response Syndromes",1,1,0,0,1,500-1000,1,56+,05
+55,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,0,24-30,04
+56,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder/Stress Response Syndromes",0,0,0,1,0,,0,31-45,999
+57,37.0,1,,0,0,0,0,1,100-500,1,31-45,04
+58,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,1,24-30,03
+59,25.0,1,,0,0,0,0,0,100-500,1,24-30,04
+60,25.0,0,,0,0,1,0,1,26-100,1,24-30,03
+61,54.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,46-55,999
+62,61.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,500-1000,0,56+,05
+63,26.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+64,44.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+65,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,05-25,1,24-30,999
+66,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Panic Disorder",1,1,1,0,1,26-100,1,24-30,03
+67,35.0,0,,0,0,0,0,1,05-25,1,31-45,999
+68,45.0,1,,0,0,0,0,1,26-100,1,31-45,03
+69,23.0,1,,0,0,0,0,1,26-100,1,16-23,03
+70,44.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+71,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+72,46.0,1,,0,0,1,0,0,500-1000,1,46-55,05
+73,27.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,500-1000,1,24-30,05
+74,39.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,100-500,1,31-45,04
+75,33.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,1,0,1,26-100,1,31-45,03
+76,38.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+77,35.0,1,,0,0,0,0,0,26-100,1,31-45,03
+78,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+79,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,24-30,999
+80,50.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,46-55,04
+81,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,1,100-500,1,31-45,04
+82,46.0,1,,0,0,1,0,1,more than 1000,1,46-55,999
+83,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,1,26-100,1,24-30,03
+84,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,24-30,999
+85,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,0,0,1,100-500,1,31-45,04
+86,42.0,1,,0,0,0,0,0,more than 1000,0,31-45,999
+87,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)/Post-traumatic Stress Disorder/Dissociative Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+88,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,24-30,999
+89,23.0,1,,0,0,0,0,1,26-100,1,16-23,03
+90,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+91,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,26-100,1,31-45,03
+92,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,24-30,04
+93,26.0,1,,0,0,0,1,0,,0,24-30,999
+94,52.0,0,,0,0,1,0,0,500-1000,1,46-55,05
+95,28.0,1,,0,0,0,1,0,,0,24-30,999
+96,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",0,0,0,0,1,01-5,1,31-45,999
+97,37.0,1,,0,0,0,0,0,500-1000,1,31-45,05
+98,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+99,57.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,56+,999
+100,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+101,38.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+102,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,26-100,1,24-30,03
+103,52.0,1,Asperger,0,0,0,0,0,more than 1000,1,46-55,999
+104,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,1,0,,0,31-45,999
+105,29.0,1,,0,0,0,1,0,,0,24-30,999
+106,26.0,0,,0,0,1,0,1,05-25,1,24-30,999
+107,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,0,26-100,0,24-30,03
+108,44.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+109,18.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,16-23,999
+110,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+111,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Stress Response Syndromes",0,0,1,0,0,05-25,1,24-30,999
+112,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,0,24-30,04
+113,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+114,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+115,40.0,0,,0,0,1,0,1,100-500,1,31-45,04
+116,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+117,48.0,0,,0,0,0,1,0,,0,46-55,999
+118,43.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+119,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+120,42.0,1,,0,0,0,0,1,26-100,1,31-45,03
+121,46.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,500-1000,1,46-55,05
+122,30.0,1,,0,0,1,0,0,more than 1000,0,24-30,999
+123,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder",1,1,1,0,0,05-25,1,24-30,999
+124,28.0,2,,0,0,1,0,1,500-1000,1,24-30,05
+125,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",0,0,1,0,1,100-500,1,24-30,04
+126,26.0,1,,0,0,1,0,1,01-5,1,24-30,999
+127,43.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+128,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Dissociative Disorder/Substance Use Disorder",1,1,0,0,0,more than 1000,1,24-30,999
+129,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+130,28.0,0,,0,0,0,0,1,26-100,1,24-30,03
+131,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,26-100,1,24-30,03
+132,22.0,1,,0,0,0,0,1,26-100,1,16-23,03
+133,24.0,0,,0,0,1,0,1,26-100,1,24-30,03
+134,33.0,0,,0,0,0,1,0,,0,31-45,999
+135,41.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Stress Response Syndromes/Substance Use Disorder/Addictive Disorder",0,0,0,1,0,,0,31-45,999
+136,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,24-30,03
+137,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+138,24.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,01-5,1,24-30,999
+139,54.0,1,Tourette's,1,1,0,0,1,more than 1000,1,46-55,999
+140,47.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,more than 1000,1,46-55,999
+141,33.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+142,30.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+143,48.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,0,more than 1000,1,46-55,999
+144,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,1,31-45,999
+145,34.0,1,,0,0,0,0,0,26-100,1,31-45,03
+146,31.0,1,,0,0,0,1,0,,0,31-45,999
+147,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,500-1000,1,24-30,05
+148,48.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,more than 1000,1,46-55,999
+149,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,100-500,1,31-45,04
+150,42.0,1,,0,0,1,0,1,100-500,1,31-45,04
+151,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,100-500,1,24-30,04
+152,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,1,31-45,999
+153,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,26-100,1,24-30,03
+154,48.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,500-1000,1,46-55,05
+155,32.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+156,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,24-30,04
+157,36.0,0,,0,0,1,1,0,,0,31-45,999
+158,29.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,0,1,0,,0,24-30,999
+159,23.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,100-500,1,16-23,04
+160,50.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,46-55,999
+161,24.0,0,,0,0,0,1,0,,0,24-30,999
+162,29.0,0,,0,0,0,0,1,05-25,1,24-30,999
+163,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",0,0,1,0,0,more than 1000,1,31-45,999
+164,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,31-45,999
+165,22.0,1,,0,0,0,0,1,100-500,1,16-23,04
+166,39.0,0,Post-traumatic Stress Disorder,1,1,0,0,1,500-1000,1,31-45,05
+167,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",0,0,1,0,1,05-25,1,24-30,999
+168,20.0,1,,0,0,0,1,0,,0,16-23,999
+169,36.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Addictive Disorder",1,1,1,0,0,01-5,0,31-45,999
+170,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,100-500,1,24-30,04
+171,36.0,1,,0,0,0,1,0,,0,31-45,999
+172,31.0,1,,0,0,1,0,1,05-25,1,31-45,999
+173,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,05-25,1,24-30,999
+174,28.0,1,,0,0,0,0,0,26-100,1,24-30,03
+175,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,0,more than 1000,1,24-30,999
+176,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,26-100,1,24-30,03
+177,45.0,1,,0,0,1,1,0,,0,31-45,999
+178,31.0,1,,0,0,0,0,1,100-500,1,31-45,04
+179,36.0,1,,0,0,0,0,1,100-500,1,31-45,04
+180,37.0,1,,0,0,1,0,1,05-25,1,31-45,999
+181,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+182,28.0,1,,0,0,0,1,0,,0,24-30,999
+183,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+184,37.0,1,,0,0,0,0,1,26-100,1,31-45,03
+185,64.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,0,1,0,,0,56+,999
+186,34.0,0,,0,0,0,1,0,,0,31-45,999
+187,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,1,0,,0,31-45,999
+188,36.0,1,,0,0,1,1,0,,0,31-45,999
+189,26.0,1,,0,0,0,1,0,,0,24-30,999
+190,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+191,47.0,0,,0,0,0,0,1,500-1000,1,46-55,05
+192,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Stress Response Syndromes",0,0,0,0,1,100-500,0,24-30,04
+193,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+194,37.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+195,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,24-30,999
+196,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,26-100,1,31-45,03
+197,44.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+198,34.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+199,35.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+200,32.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,100-500,1,31-45,04
+201,23.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,16-23,999
+202,31.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+203,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+204,42.0,1,,0,0,0,1,0,,0,31-45,999
+205,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,24-30,999
+206,29.0,0,,0,0,1,0,0,100-500,1,24-30,04
+207,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+208,31.0,1,,0,0,1,1,0,,0,31-45,999
+209,26.0,1,,0,0,1,0,1,more than 1000,1,24-30,999
+210,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,24-30,04
+211,39.0,1,,0,0,1,0,0,500-1000,1,31-45,05
+212,29.0,1,,0,0,0,0,1,26-100,1,24-30,03
+213,27.0,1,,0,0,0,0,1,26-100,1,24-30,03
+214,29.0,1,,0,0,0,0,1,26-100,1,24-30,03
+215,43.0,1,,0,0,1,0,1,26-100,1,31-45,03
+216,31.0,1,,0,0,0,0,1,05-25,1,31-45,999
+217,27.0,0,,0,0,0,0,1,26-100,1,24-30,03
+218,36.0,1,,0,0,1,0,1,26-100,1,31-45,03
+219,44.0,0,,0,0,1,0,1,500-1000,0,31-45,05
+220,44.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+221,27.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,24-30,999
+222,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+223,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+224,43.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,0,0,0,05-25,1,31-45,999
+225,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,1,0,,0,24-30,999
+226,49.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,46-55,999
+227,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+228,33.0,1,,0,0,0,0,1,100-500,1,31-45,04
+229,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,05-25,0,31-45,999
+230,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,24-30,03
+231,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+232,25.0,1,,0,0,1,0,1,05-25,1,24-30,999
+233,25.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,24-30,04
+234,31.0,0,,0,0,1,0,1,500-1000,0,31-45,05
+235,22.0,0,,0,0,0,0,0,26-100,1,16-23,03
+236,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+237,40.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+238,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,26-100,1,24-30,03
+239,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,100-500,1,31-45,04
+240,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,more than 1000,1,31-45,999
+241,47.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Autism Spectrum Disorder",1,1,0,1,0,,0,46-55,999
+242,20.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,1,0,1,26-100,1,16-23,03
+243,27.0,0,,0,0,0,0,1,more than 1000,0,24-30,999
+244,62.0,0,,0,0,0,0,0,100-500,1,56+,04
+245,42.0,1,,0,0,0,1,0,,0,31-45,999
+246,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,1,0,,0,31-45,999
+247,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",0,0,0,0,1,26-100,1,24-30,03
+248,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+249,51.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,46-55,999
+250,60.0,1,,0,0,1,0,0,more than 1000,1,56+,999
+251,30.0,0,"Depression, Anxiety, Developmental Trauma",1,1,0,1,0,,0,24-30,999
+252,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,0,31-45,04
+253,38.0,1,,0,0,0,0,1,26-100,1,31-45,03
+254,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Addictive Disorder",0,0,0,0,1,100-500,1,24-30,04
+255,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,1,100-500,0,31-45,04
+256,50.0,0,,0,0,0,1,0,,0,46-55,999
+257,41.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+258,58.0,0,Obsessive-Compulsive Disorder,1,1,1,1,0,,0,56+,999
+259,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",1,1,0,0,0,01-5,1,24-30,999
+260,53.0,1,,0,0,0,0,0,100-500,1,46-55,04
+261,42.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,05-25,1,31-45,999
+262,33.0,1,,0,0,1,0,0,26-100,1,31-45,03
+263,25.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,0,24-30,04
+264,40.0,1,,0,0,1,0,1,05-25,1,31-45,999
+265,25.0,0,Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder,1,1,1,0,0,05-25,1,24-30,999
+266,49.0,0,,0,0,0,0,1,100-500,1,46-55,04
+267,44.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Stress Response Syndromes/Dissociative Disorder",1,1,1,0,1,05-25,1,31-45,999
+268,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,100-500,1,24-30,04
+269,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,1,0,1,100-500,0,24-30,04
+270,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,100-500,1,24-30,04
+271,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+272,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+273,24.0,1,,0,0,0,0,1,100-500,1,24-30,04
+274,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,31-45,04
+275,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+276,47.0,1,,0,0,0,0,1,100-500,1,46-55,04
+277,59.0,1,,0,0,0,0,1,100-500,1,56+,04
+278,44.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,31-45,04
+279,26.0,1,,0,0,0,0,1,100-500,1,24-30,04
+280,43.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,1,0,,0,31-45,999
+281,39.0,1,,0,0,0,1,0,,0,31-45,999
+282,43.0,1,Attention Deficit Hyperactivity Disorder,0,0,0,0,1,01-5,1,31-45,999
+283,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+284,22.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",0,0,0,0,1,01-5,1,16-23,999
+285,24.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,0,0,1,05-25,1,24-30,999
+286,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,500-1000,1,31-45,05
+287,40.0,1,,0,0,0,0,1,26-100,0,31-45,03
+288,26.0,1,Attention Deficit Hyperactivity Disorder,0,0,1,1,0,,0,24-30,999
+289,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,16-23,999
+290,30.0,1,,0,0,1,0,0,100-500,1,24-30,04
+291,37.0,1,,0,0,0,0,0,500-1000,1,31-45,05
+292,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,01-5,1,24-30,999
+293,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,100-500,1,31-45,04
+294,49.0,1,Attention Deficit Hyperactivity Disorder,0,0,0,0,1,100-500,0,46-55,04
+295,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+296,26.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,0,24-30,04
+297,29.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,500-1000,1,24-30,05
+298,39.0,0,,0,0,1,0,1,26-100,0,31-45,03
+299,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+300,23.0,1,,0,0,0,0,1,26-100,1,16-23,03
+301,50.0,1,,0,0,0,0,1,26-100,1,46-55,03
+302,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,more than 1000,1,31-45,999
+303,24.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",0,0,0,0,1,100-500,1,24-30,04
+304,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,1,31-45,03
+305,36.0,1,,0,0,0,0,1,26-100,1,31-45,03
+306,50.0,0,,0,0,0,0,1,26-100,0,46-55,03
+307,47.0,0,,0,0,0,0,1,26-100,1,46-55,03
+308,30.0,1,,0,0,0,0,1,26-100,0,24-30,03
+309,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+310,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+311,38.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,0,31-45,04
+312,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+313,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,1,0,1,100-500,1,31-45,04
+314,26.0,0,,0,0,0,0,1,more than 1000,1,24-30,999
+315,45.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+316,37.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Stress Response Syndromes",0,0,0,0,1,500-1000,1,31-45,05
+317,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,0,24-30,04
+318,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,31-45,04
+319,35.0,0,,0,0,1,0,1,100-500,1,31-45,04
+320,44.0,1,,0,0,1,0,1,100-500,1,31-45,04
+321,27.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+322,33.0,1,,0,0,0,0,1,100-500,0,31-45,04
+323,28.0,0,,0,0,0,0,1,100-500,0,24-30,04
+324,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+325,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,16-23,999
+326,53.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,1,0,,0,46-55,999
+327,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,0,0,1,05-25,1,31-45,999
+328,24.0,1,,0,0,1,1,0,,0,24-30,999
+329,31.0,1,,0,0,0,0,1,100-500,1,31-45,04
+330,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,05-25,1,31-45,999
+331,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,0,0,1,100-500,1,31-45,04
+332,27.0,1,,0,0,0,0,1,05-25,1,24-30,999
+333,31.0,1,,0,0,0,0,1,05-25,1,31-45,999
+334,32.0,1,,0,0,0,1,0,,0,31-45,999
+335,40.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Substance Use Disorder",0,0,0,0,1,more than 1000,1,31-45,999
+336,32.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+337,31.0,1,,0,0,0,1,0,,0,31-45,999
+338,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+339,21.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,0,16-23,999
+340,67.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,56+,999
+341,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,1,0,,0,31-45,999
+342,46.0,1,,0,0,0,1,0,,0,46-55,999
+343,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,more than 1000,1,31-45,999
+344,44.0,0,Depression,1,1,1,0,1,05-25,1,31-45,999
+345,57.0,1,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder",0,0,0,0,0,more than 1000,1,56+,999
+346,38.0,0,,0,0,0,0,1,05-25,1,31-45,999
+347,27.0,0,Autism,0,0,1,0,1,100-500,1,24-30,04
+348,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,24-30,999
+349,36.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+350,30.0,1,,0,0,1,0,1,01-5,1,24-30,999
+351,35.0,1,,0,0,1,0,1,more than 1000,1,31-45,999
+352,30.0,1,,0,0,0,0,1,26-100,1,24-30,03
+353,32.0,1,,0,0,1,0,1,26-100,1,31-45,03
+354,35.0,1,,0,0,0,0,1,100-500,1,31-45,04
+355,33.0,1,,0,0,0,0,1,500-1000,1,31-45,05
+356,48.0,1,,0,0,0,0,1,05-25,1,46-55,999
+357,32.0,1,,0,0,0,0,1,26-100,1,31-45,03
+358,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+359,31.0,1,,0,0,0,0,1,500-1000,1,31-45,05
+360,40.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+361,37.0,1,,0,0,0,0,0,26-100,1,31-45,03
+362,29.0,1,,0,0,0,0,1,100-500,1,24-30,04
+363,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+364,51.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,0,46-55,04
+365,29.0,1,,1,1,0,1,0,,0,24-30,999
+366,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Obsessive-Compulsive Disorder/Addictive Disorder",1,1,1,1,0,,0,24-30,999
+367,33.0,0,,0,0,0,0,1,26-100,1,31-45,03
+368,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,24-30,04
+369,42.0,1,,0,0,0,0,1,05-25,1,31-45,999
+370,47.0,1,,0,0,0,0,1,05-25,0,46-55,999
+371,31.0,0,Post-traumatic Stress Disorder,1,1,0,0,1,26-100,1,31-45,03
+372,32.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+373,60.0,1,,0,0,0,1,0,,0,56+,999
+374,58.0,1,,0,0,1,0,1,100-500,1,56+,04
+375,38.0,1,,0,0,1,1,0,,0,31-45,999
+376,42.0,0,,0,0,0,0,1,05-25,1,31-45,999
+377,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+378,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,more than 1000,1,24-30,999
+379,31.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+380,42.0,1,,0,0,0,1,0,,0,31-45,999
+381,42.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",1,1,0,0,1,26-100,1,31-45,03
+382,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+383,35.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+384,24.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+385,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+386,32.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+387,34.0,1,,0,0,0,0,0,500-1000,1,31-45,05
+388,37.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+389,38.0,1,,0,0,0,1,0,,0,31-45,999
+390,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,24-30,03
+391,27.0,1,,0,0,0,0,1,more than 1000,1,24-30,999
+392,41.0,0,,0,0,0,0,0,more than 1000,1,31-45,999
+393,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+394,39.0,1,,0,0,0,0,1,26-100,1,31-45,03
+395,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+396,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Panic disorder",1,1,1,0,1,01-5,0,24-30,999
+397,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,05-25,1,24-30,999
+398,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,1,0,,0,31-45,999
+399,46.0,1,,0,0,0,0,1,more than 1000,1,46-55,999
+400,38.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+401,34.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+402,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,05-25,1,24-30,999
+403,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,26-100,1,24-30,03
+404,38.0,1,,0,0,0,0,1,26-100,1,31-45,03
+405,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+406,38.0,0,,0,0,0,0,1,26-100,1,31-45,03
+407,48.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,100-500,1,46-55,04
+408,44.0,0,,0,0,0,0,1,01-5,0,31-45,999
+409,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,1,31-45,999
+410,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Substance Use Disorder",1,1,0,0,1,100-500,1,24-30,04
+411,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+412,41.0,1,,0,0,0,0,1,100-500,1,31-45,04
+413,33.0,1,,0,0,1,0,1,100-500,1,31-45,04
+414,31.0,1,,0,0,0,1,0,,0,31-45,999
+415,44.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+416,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+417,26.0,2,"Mood Disorder (Depression, Bipolar Disorder, etc)/Dissociative Disorder",0,0,0,0,1,26-100,1,24-30,03
+418,28.0,1,,0,0,0,0,1,26-100,1,24-30,03
+419,32.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+420,35.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+421,40.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+422,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,500-1000,1,24-30,05
+423,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Substance Use Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+424,21.0,1,,0,0,0,0,1,26-100,1,16-23,03
+425,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+426,27.0,1,,0,0,0,1,0,,0,24-30,999
+427,37.0,1,,0,0,0,1,0,,0,31-45,999
+428,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,100-500,1,31-45,04
+429,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,more than 1000,1,24-30,999
+430,41.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+431,34.0,1,,0,0,0,0,1,26-100,1,31-45,03
+432,37.0,1,,0,0,1,1,0,,0,31-45,999
+433,28.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Addictive Disorder",1,1,0,0,1,more than 1000,1,24-30,999
+434,52.0,1,Substance Use Disorder,0,0,0,0,0,more than 1000,1,46-55,999
+435,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+436,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",0,0,0,0,1,05-25,1,31-45,999
+437,50.0,1,,0,0,0,1,0,,0,46-55,999
+438,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Post-traumatic Stress Disorder",0,0,0,0,1,100-500,1,24-30,04
+439,31.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,more than 1000,1,31-45,999
+440,44.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+441,31.0,1,,0,0,1,0,1,05-25,1,31-45,999
+442,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Stress Response Syndromes",0,0,0,0,1,01-5,1,16-23,999
+443,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,100-500,1,16-23,04
+444,38.0,1,,0,0,0,0,1,100-500,1,31-45,04
+445,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,26-100,1,31-45,03
+446,33.0,1,,0,0,0,0,1,05-25,1,31-45,999
+447,34.0,1,Post-traumatic Stress Disorder/Depression,1,1,0,1,0,,0,31-45,999
+448,47.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,46-55,999
+449,29.0,0,,0,0,1,0,1,26-100,1,24-30,03
+450,38.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+451,29.0,1,,0,0,0,0,1,100-500,1,24-30,04
+452,37.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,1,31-45,04
+453,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+454,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes",1,1,1,0,1,100-500,1,24-30,04
+455,57.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,56+,999
+456,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,24-30,999
+457,38.0,0,,0,0,0,0,0,more than 1000,1,31-45,999
+458,39.0,1,,0,0,0,1,0,,0,31-45,999
+459,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,24-30,999
+460,24.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,100-500,1,24-30,04
+461,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,26-100,1,24-30,03
+462,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,500-1000,1,31-45,05
+463,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+464,34.0,1,,0,0,0,0,1,05-25,1,31-45,999
+465,52.0,1,,0,0,1,0,1,100-500,0,46-55,04
+466,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,0,100-500,1,31-45,04
+467,52.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,0,0,0,100-500,1,46-55,04
+468,49.0,0,,0,0,0,0,1,100-500,0,46-55,04
+469,30.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,more than 1000,1,24-30,999
+470,41.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Autism",1,1,1,0,1,05-25,1,31-45,999
+471,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Dissociative Disorder",0,0,1,0,0,more than 1000,1,24-30,999
+472,37.0,2,Post-traumatic Stress Disorder,1,1,0,0,1,more than 1000,1,31-45,999
+473,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,24-30,04
+474,39.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,500-1000,1,31-45,05
+475,30.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+476,23.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,26-100,1,16-23,03
+477,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,24-30,999
+478,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+479,41.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+480,47.0,1,,0,0,0,0,1,100-500,1,46-55,04
+481,56.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,1,0,1,05-25,1,56+,999
+482,22.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,16-23,04
+483,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,100-500,1,31-45,04
+484,30.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,0,24-30,999
+485,31.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,31-45,04
+486,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,100-500,1,31-45,04
+487,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+488,37.0,0,Gender Dysphoria,1,1,1,0,1,05-25,1,31-45,999
+489,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,0,05-25,1,24-30,999
+490,31.0,0,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,26-100,1,31-45,03
+491,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+492,36.0,1,,0,0,1,0,0,100-500,1,31-45,04
+493,27.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,0,1,0,,0,24-30,999
+494,38.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+495,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,1,0,,0,31-45,999
+496,33.0,0,,0,0,0,0,1,100-500,1,31-45,04
+497,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+498,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,0,1,100-500,1,31-45,04
+499,30.0,0,,0,0,0,0,1,100-500,1,24-30,04
+500,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+501,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,26-100,1,31-45,03
+502,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,05-25,1,24-30,999
+503,25.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Stress Response Syndromes/Dissociative Disorder",0,0,0,0,0,100-500,1,24-30,04
+504,40.0,1,,0,0,0,0,1,100-500,1,31-45,04
+505,31.0,1,,0,0,0,0,1,05-25,1,31-45,999
+506,49.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,46-55,03
+507,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,1,0,1,26-100,1,24-30,03
+508,35.0,1,,0,0,0,0,0,100-500,1,31-45,04
+509,46.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,46-55,04
+510,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,24-30,04
+511,22.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Substance Use Disorder",1,1,1,0,0,26-100,1,16-23,03
+512,50.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,0,46-55,04
+513,39.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+514,40.0,1,Depression ,1,1,0,0,0,05-25,1,31-45,999
+515,31.0,1,,0,0,1,0,1,100-500,1,31-45,04
+516,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,1,0,,0,31-45,999
+517,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+518,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+519,25.0,0,,0,0,0,0,1,100-500,0,24-30,04
+520,28.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,500-1000,1,24-30,05
+521,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+522,54.0,1,,0,0,0,0,1,01-5,1,46-55,999
+523,45.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,more than 1000,1,31-45,999
+524,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,500-1000,1,31-45,05
+525,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",1,1,0,0,0,more than 1000,1,31-45,999
+526,28.0,1,,0,0,1,0,1,100-500,1,24-30,04
+527,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+528,40.0,1,,0,0,0,1,0,,0,31-45,999
+529,52.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,500-1000,1,46-55,05
+530,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,1,31-45,03
+531,41.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+532,25.0,0,,0,0,0,0,1,100-500,1,24-30,04
+533,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Stress Response Syndromes",1,1,0,1,0,,0,31-45,999
+534,36.0,2,,0,0,0,0,1,26-100,1,31-45,03
+535,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+536,23.0,0,,0,0,1,0,1,100-500,0,16-23,04
+537,37.0,1,,0,0,0,0,1,05-25,1,31-45,999
+538,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Addictive Disorder",0,0,0,0,0,100-500,1,31-45,04
+539,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Post-traumatic Stress Disorder",1,1,1,0,0,100-500,1,31-45,04
+540,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,0,31-45,04
+541,23.0,1,,0,0,1,0,1,100-500,1,16-23,04
+542,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,100-500,1,31-45,04
+543,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,100-500,1,31-45,04
+544,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,100-500,1,24-30,04
+545,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+546,42.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,1,31-45,04
+547,23.0,0,,0,0,0,0,1,100-500,1,16-23,04
+548,39.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,100-500,1,31-45,04
+549,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+550,35.0,0,,0,0,0,0,1,100-500,1,31-45,04
+551,29.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,100-500,0,24-30,04
+552,24.0,0,,0,0,0,0,1,100-500,1,24-30,04
+553,35.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+554,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Substance Use Disorder",0,0,0,0,1,100-500,1,24-30,04
+555,28.0,0,,0,0,0,0,1,05-25,1,24-30,999
+556,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,31-45,04
+557,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,100-500,1,31-45,04
+558,33.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+559,32.0,1,,0,0,0,0,1,100-500,1,31-45,04
+560,27.0,0,,0,0,0,0,1,100-500,1,24-30,04
+561,23.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,100-500,0,16-23,04
+562,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,24-30,04
+563,24.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,100-500,0,24-30,04
+564,34.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,1,100-500,1,31-45,04
+565,32.0,1,,0,0,0,0,1,100-500,1,31-45,04
+566,41.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+567,37.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,100-500,1,31-45,04
+568,27.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Addictive Disorder",0,0,0,1,0,,0,24-30,999
+569,26.0,1,,0,0,1,0,1,26-100,1,24-30,03
+570,24.0,1,Addictive Disorder,0,0,0,0,1,05-25,1,24-30,999
+571,44.0,1,Attention Deficit Hyperactivity Disorder,1,1,0,0,1,26-100,1,31-45,03
+572,40.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+573,42.0,1,,0,0,0,1,0,,0,31-45,999
+574,27.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,24-30,999
+575,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,0,0,1,05-25,1,31-45,999
+576,38.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+577,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,500-1000,1,31-45,05
+578,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,0,1,26-100,0,24-30,03
+579,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,0,more than 1000,1,31-45,999
+580,26.0,1,,0,0,1,0,1,26-100,1,24-30,03
+581,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,1,0,,0,31-45,999
+582,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,1,0,1,100-500,1,31-45,04
+583,33.0,2,,0,0,1,0,0,100-500,1,31-45,04
+584,37.0,0,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,0,500-1000,1,31-45,05
+585,30.0,1,,0,0,0,0,0,26-100,1,24-30,03
+586,22.0,1,,0,0,1,0,1,05-25,1,16-23,999
+587,29.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,1,0,,0,24-30,999
+588,51.0,0,,0,0,0,0,1,05-25,1,46-55,999
+589,24.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,24-30,999
+590,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",1,1,0,0,1,more than 1000,1,31-45,999
+591,46.0,1,,0,0,0,0,0,500-1000,1,46-55,05
+592,43.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,1,0,,0,31-45,999
+593,50.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder",1,1,0,0,0,more than 1000,1,46-55,999
+594,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,24-30,04
+595,27.0,1,,0,0,1,0,1,26-100,1,24-30,03
+596,31.0,1,,0,0,0,1,0,,0,31-45,999
+597,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+598,34.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)/Substance Use Disorder",1,1,1,0,1,05-25,1,31-45,999
+599,49.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,1,0,,0,46-55,999
+600,37.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,31-45,999
+601,35.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Substance Use Disorder",1,1,1,0,1,500-1000,1,31-45,05
+602,33.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,100-500,1,31-45,04
+603,32.0,1,,0,0,0,0,1,26-100,1,31-45,03
+604,31.0,1,,0,0,0,0,0,more than 1000,1,31-45,999
+605,33.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+606,40.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+607,40.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+608,56.0,1,,0,0,0,1,0,,0,56+,999
+609,28.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Eating Disorder (Anorexia, Bulimia, etc)",1,1,1,0,1,26-100,1,24-30,03
+610,25.0,1,,0,0,0,0,0,01-5,1,24-30,999
+611,48.0,1,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",1,1,1,0,1,05-25,1,46-55,999
+612,43.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,0,more than 1000,1,31-45,999
+613,29.0,1,,0,0,1,0,1,26-100,1,24-30,03
+614,36.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Eating Disorder (Anorexia, Bulimia, etc)/Post-traumatic Stress Disorder",1,1,0,0,0,more than 1000,1,31-45,999
+615,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,100-500,1,31-45,04
+616,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,26-100,0,31-45,03
+617,33.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+618,49.0,1,,0,0,0,0,0,more than 1000,1,46-55,999
+619,38.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Suicidal",0,0,1,1,0,,0,31-45,999
+620,30.0,0,,0,0,0,0,1,05-25,1,24-30,999
+621,36.0,1,,0,0,1,1,0,,0,31-45,999
+622,32.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,100-500,1,31-45,04
+623,36.0,1,,0,0,1,1,0,,0,31-45,999
+624,40.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,100-500,1,31-45,04
+625,28.0,1,,0,0,0,0,1,26-100,1,24-30,03
+626,21.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Obsessive-Compulsive Disorder",0,0,0,0,1,more than 1000,1,16-23,999
+627,46.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,500-1000,1,46-55,05
+628,20.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,05-25,1,16-23,999
+629,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,0,more than 1000,1,24-30,999
+630,44.0,0,,0,0,0,0,1,100-500,1,31-45,04
+631,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+632,38.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder/Dissociative Disorder",1,1,1,1,0,,0,31-45,999
+633,35.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",1,1,0,0,1,05-25,1,31-45,999
+634,45.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Substance Use Disorder",0,0,1,1,0,,0,31-45,999
+635,35.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,0,1,100-500,1,31-45,04
+636,30.0,1,,0,0,0,0,1,05-25,1,24-30,999
+637,22.0,0,,0,0,1,0,1,100-500,1,16-23,04
+638,33.0,1,,0,0,1,1,0,,0,31-45,999
+639,30.0,1,Obsessive-Compulsive Disorder,0,0,0,1,0,,0,24-30,999
+640,41.0,1,,0,0,1,0,1,100-500,1,31-45,04
+641,32.0,1,,0,0,0,0,1,26-100,1,31-45,03
+642,48.0,1,,0,0,0,0,1,100-500,1,46-55,04
+643,32.0,1,,0,0,1,0,1,26-100,1,31-45,03
+644,30.0,1,Stress Response Syndromes,0,0,0,0,0,500-1000,1,24-30,05
+645,45.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,26-100,1,31-45,03
+646,31.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,31-45,999
+647,32.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",0,0,0,0,1,26-100,1,31-45,03
+648,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder/Post-traumatic Stress Disorder",1,1,0,0,0,more than 1000,1,24-30,999
+649,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,05-25,1,31-45,999
+650,37.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Substance Use Disorder",1,1,1,0,1,100-500,1,31-45,04
+651,30.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,1,0,,0,24-30,999
+652,31.0,0,"Personality Disorder (Borderline, Antisocial, Paranoid, etc)",1,1,0,1,0,,0,31-45,999
+653,30.0,1,,0,0,0,0,1,05-25,1,24-30,999
+654,35.0,0,Obsessive-Compulsive Disorder,0,0,0,0,1,100-500,1,31-45,04
+655,37.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+656,26.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,1,0,1,26-100,1,24-30,03
+657,50.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,1,0,1,26-100,1,46-55,03
+658,32.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,05-25,1,31-45,999
+659,32.0,1,,0,0,0,0,1,100-500,1,31-45,04
+660,23.0,1,,0,0,0,0,1,01-5,1,16-23,999
+661,40.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,1,0,1,26-100,1,31-45,03
+662,36.0,1,,0,0,0,0,1,01-5,1,31-45,999
+663,24.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,0,24-30,03
+664,29.0,0,,0,0,0,0,1,05-25,1,24-30,999
+665,28.0,1,,0,0,0,0,1,26-100,1,24-30,03
+666,51.0,1,,0,0,0,0,1,26-100,1,46-55,03
+667,36.0,1,,0,0,1,0,1,26-100,1,31-45,03
+668,40.0,1,,0,0,0,0,1,26-100,1,31-45,03
+669,39.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Personality Disorder (Borderline, Antisocial, Paranoid, etc)",0,0,0,0,1,100-500,1,31-45,04
+670,32.0,0,,0,0,0,0,1,100-500,1,31-45,04
+671,45.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Substance Use Disorder/Addictive Disorder",0,0,1,0,0,100-500,1,31-45,04
+672,39.0,1,,0,0,1,0,1,500-1000,1,31-45,05
+673,33.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,0,1,0,,0,31-45,999
+674,46.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,more than 1000,1,46-55,999
+675,34.0,1,,0,0,0,0,1,26-100,1,31-45,03
+676,30.0,1,,0,0,1,0,1,05-25,1,24-30,999
+677,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,31-45,999
+678,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,26-100,1,24-30,03
+679,31.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Addictive Disorder",0,0,0,1,0,,0,31-45,999
+680,32.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,100-500,1,31-45,04
+681,39.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+682,45.0,0,,0,0,1,0,1,more than 1000,1,31-45,999
+683,26.0,1,,0,0,0,1,0,,0,24-30,999
+684,36.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,more than 1000,1,31-45,999
+685,26.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,500-1000,1,24-30,05
+686,55.0,0,,0,0,0,0,1,05-25,1,46-55,999
+687,32.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,1,0,,0,31-45,999
+688,40.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder/Dissociative Disorder",0,0,1,0,1,more than 1000,1,31-45,999
+689,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,24-30,999
+690,45.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,more than 1000,1,31-45,999
+691,34.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,31-45,03
+692,31.0,1,,0,0,1,0,0,500-1000,1,31-45,05
+693,29.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,1,0,,0,24-30,999
+694,31.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,1,0,,0,31-45,999
+695,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,100-500,1,31-45,04
+696,41.0,1,,0,0,1,0,0,26-100,1,31-45,03
+697,39.0,1,,0,0,0,0,1,100-500,1,31-45,04
+698,39.0,1,,0,0,0,0,1,05-25,1,31-45,999
+699,35.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,1,0,,0,31-45,999
+700,37.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+701,32.0,1,,0,0,0,0,0,05-25,1,31-45,999
+702,24.0,1,,0,0,1,0,1,100-500,1,24-30,04
+703,40.0,0,,0,0,0,0,1,more than 1000,1,31-45,999
+704,25.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,0,26-100,0,24-30,03
+705,49.0,1,,0,0,0,0,1,26-100,1,46-55,03
+706,28.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,1,0,0,100-500,1,24-30,04
+707,22.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Stress Response Syndromes",0,0,1,0,1,05-25,1,16-23,999
+708,41.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+709,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,26-100,1,31-45,03
+710,32.0,1,,0,0,0,0,1,01-5,1,31-45,999
+711,23.0,1,,0,0,1,0,0,500-1000,1,16-23,05
+712,53.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,100-500,1,46-55,04
+713,34.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Addictive Disorder",1,1,1,0,1,100-500,1,31-45,04
+714,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",0,0,1,0,0,more than 1000,1,24-30,999
+715,23.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,0,1,0,,0,16-23,999
+716,30.0,1,Attention Deficit Hyperactivity Disorder,1,1,1,0,1,100-500,1,24-30,04
+717,22.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,05-25,1,16-23,999
+718,27.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Obsessive-Compulsive Disorder",1,1,0,0,1,26-100,1,24-30,03
+719,47.0,2,,0,0,0,1,0,,0,46-55,999
+720,33.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,05-25,1,31-45,999
+721,28.0,1,,0,0,1,0,1,26-100,1,24-30,03
+722,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder/Obsessive-Compulsive Disorder",0,0,1,0,1,26-100,1,31-45,03
+723,25.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Post-traumatic Stress Disorder",0,0,1,0,1,05-25,1,24-30,999
+724,30.0,0,,0,0,1,0,0,more than 1000,1,24-30,999
+725,39.0,1,,0,0,1,0,0,more than 1000,1,31-45,999
+726,31.0,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",0,0,0,0,1,100-500,1,31-45,04
+727,48.0,1,,0,0,1,0,0,more than 1000,1,46-55,999
+728,43.0,1,,0,0,0,0,1,100-500,1,31-45,04
+729,35.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+730,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",0,0,1,0,0,100-500,1,31-45,04
+731,28.0,1,,0,0,0,0,1,26-100,1,24-30,03
+732,27.0,1,,0,0,0,0,1,01-5,1,24-30,999
+733,28.0,1,,0,0,0,0,1,01-5,1,24-30,999
+734,43.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,1,500-1000,1,31-45,05
+735,31.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Post-traumatic Stress Disorder",1,1,1,0,1,more than 1000,1,31-45,999
+736,37.0,1,,0,0,0,0,1,more than 1000,1,31-45,999
+737,36.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,0,1,26-100,1,31-45,03
+738,42.0,0,"Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,100-500,1,31-45,04
+739,29.0,0,,0,0,0,0,1,100-500,1,24-30,04
+740,41.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,1,0,1,500-1000,1,31-45,05
+741,37.0,1,,0,0,0,1,0,,0,31-45,999
+742,53.0,1,,0,0,0,0,1,26-100,1,46-55,03
+743,43.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",0,0,1,1,0,,0,31-45,999
+744,44.0,1,,0,0,0,0,1,500-1000,1,31-45,05
+745,37.0,0,,0,0,0,0,0,100-500,1,31-45,04
+746,57.0,0,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)",1,1,0,0,1,26-100,1,56+,03
+747,47.0,1,,0,0,0,0,1,more than 1000,1,46-55,999
+748,34.0,1,,0,0,0,0,1,100-500,1,31-45,04
+749,29.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,0,1,26-100,1,24-30,03
+750,38.0,1,"Mood Disorder (Depression, Bipolar Disorder, etc)",0,0,0,0,0,500-1000,1,31-45,05
+751,41.0,1,,0,0,0,0,1,26-100,1,31-45,03
+752,40.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder/Substance Use Disorder/Addictive Disorder",1,1,0,0,1,05-25,1,31-45,999
+753,,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)",1,1,1,1,0,,0,,999
+754,30.0,1,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Attention Deficit Hyperactivity Disorder",0,0,0,0,1,26-100,1,24-30,03
+755,,2,"Anxiety Disorder (Generalized, Social, Phobia, etc)/Mood Disorder (Depression, Bipolar Disorder, etc)/Attention Deficit Hyperactivity Disorder",1,1,1,1,0,,0,,999
