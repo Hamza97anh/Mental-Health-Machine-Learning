@@ -13,22 +13,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body class="bg-dark">
+<div class="w3-bar w3-left" style="width:100%;overflow:hidden;height:44px;background-color:beige;">
+  <body class="bg-dark">
     <div class="wrapper">
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
-            <a class="navbar-brand" href="index.html">Tech Industry Data</a>
+            <a class="navbar-brand" href="index.html"style="width:100%;overflow:hidden;height:44px;background-color:white;color:black;font-size:x-large;text-center;">Mental Health in The Tech Industry </a>
         </nav>
     </div>
+  </div>
     <div class="center jumbotron text-center">
-        <h1 class="display-12"> Mental Health in The Tech Industry </h1>
+        <h1 class="display-12"></h1>
     </div>
     <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
             <h3>What is our mission?</h3>
           </div>
-          <div class="col-md-8">
-            <p>
+          <div class="left text-left">
+            <p style="color:black;font-size:x-large;">
               The Goal of this project is to use machine learning to predict the probeblity of an individual having a mental disorder in the tech industry.
               The model uses data pulled from the Open Source Mental Illness (OSMI)'s surveys from the years 2017, 2018 and 2019. 
               Each survy includes a vast array of questions regarding not only potential causal factors that may lead to mental disorders, 
@@ -44,25 +46,68 @@
                 <p>Filter Search</p>
                 <ul class="bg-dark">
                     <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="date">Age Groupes</label>
-                    <input type="text" placeholder="24-30" id="Age Groups" />
+                    <label for="age">Age Groupes</label>
+                    <select name="text" id="Age Groups">
+                      <option value="" disabled selected hidden>Choose an Age Group...</option>
+                      <option value="">All</option>
+                      <option value="16-23">16-23</option>
+                      <option value="24-30">24-30</option>
+                      <option value="31-45">31-45</option>
+                      <option value="46-55">46-55</option>
+                      <option value="56+">56+</option>       
+                    </select>
                   </li>
                   <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
                     <label for="Condition">Company Size</label>
-                    <input type="text" placeholder="26-100" id="How many employees does your company or organization have?" />
-                   </li>
-                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="gender">Gender</label>
-                    <input type="text" placeholder="0 or 1 or3" id="Gender: F=0, M=1, Non-binary=3" />
+                    <select name="How many employees does your company or organization have?" id="How many employees does your company or organization have?">
+                      <option value="" disabled selected hidden>Choose a company size...</option>
+                      <option value="">All</option>
+                      <option value="more than 1000">more than 1000</option>                      
+                      <option value="5-25">5-25</option>
+                      <option value="26-100">26-100</option>
+                      <option value="100-500">100-500</option>
+                      <option value="500-1000">500-1000</option>    
+                      <option value="more than 1000">more than 1000</option>       
+                    </select>
                   </li>
                   <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
-                    <label for="Employment status">Employment status</label>
-                    <input type="text" placeholder="0 or 1" id="Are you self-employed? Y=1 N=0" />
+                    <label for="Gender">Gender</label>
+                    <select name="Gender" id="Gender: F=0, M=1, Non-binary=2">
+                      <option value="" disabled selected hidden>Choose Gender...</option>
+                      <option value="">All</option>
+                      <option value="0">Female</option>
+                      <option value="1">Male</option>
+                      <option value="2">Non-Binery</option>      
+                    </select>
                   </li>
-                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rm;">
-                    <label for="size">Family History</label>
-                    <input type="text" placeholder="0 or 1" id="Do you have a family history of mental illness? Y=1 N=0" />
+                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
+                    <label for="Self-Employed?">Self-Employed?</label>
+                    <select name="Self-Employed?" id="Are you self-employed?  Y=1 N=0">
+                      <option value="" disabled selected hidden>Choose employment status...</option>
+                      <option value="">All</option>
+                      <option value="0">No</option>
+                      <option value="1">Yes</option>                     
+                    </select>
+                  </li>  
+                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
+                    <label for="Family History?">Family Histoy?</label>
+                    <select name="Family History?" id="Do you have a family history of mental illness?  Y=1 N=0">
+                      <option value="" disabled selected hidden>Choose Family History...</option>
+                      <option value="">All</option>
+                      <option value="0">No</option>
+                      <option value="1">Yes</option>
+                       
+                    </select>
                   </li>
+                  <li class="list-group-item bg-dark" style="font-family: inherit; font-size: 1rem;">
+                    <label for="Tech Role?">Tech Role?</label>
+                    <select name="Tech Role?" id="Is your primary role within your company related to tech IT?">
+                      <option value="" disabled selected hidden>Choose Tech Role or not...</option>
+                      <option value="">All</option>
+                      <option value="0">No</option>
+                      <option value="1">Yes</option>                     
+                    </select>
+                  </li>                        
                 </ul>
                </form>
           </div>
@@ -72,7 +117,7 @@
                 <tr>
                     <th>index</th>
                     <th>age</th>
-                    <th>Gender: F=0, M=1, Non-binary=3</th>
+                    <th>Gender: F=0, M=1, Non-binary=2</th>
                     <th>If possibly, what disorder(s) do you believe you have?</th>
                     <th>Have you ever been diagnosed with a mental health disorder? Y=1 N=0</th>
                     <th>Have you had a mental health disorder in the past?  Y=1 N=0</th>
@@ -80,6 +125,7 @@
                     <th>Are you self-employed?  Y=1 N=0</th>
                     <th>Is your employer primarily a tech company/organization?  Y=1 N=0</th>
                     <th>How many employees does your company or organization have?</th>
+                    <th>Is your primary role within your company related to tech IT?</th>
                     <th>Age Groups</th>
                 </tr>
               </thead>

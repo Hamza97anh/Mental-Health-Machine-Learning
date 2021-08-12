@@ -8,11 +8,14 @@ body {
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
   }
   .center {
     margin: auto;
     width: 60%;
-    height:360px;
+    height:100%;
     border: 5px solid #000000;
     padding: 10px;
   }
@@ -40,59 +43,123 @@ body {
   .chart1 {
     margin: auto;
     background-image: url("../images/DiagnosedAgeGroups.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: right;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
   .chart2 {
     margin: auto;
     background-image: url("../images/DiagnosedCompanySize.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
   .chart3 {
     margin: auto;
     background-image: url("../images/DiagnosedFamilyHistory.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
   .chart4 {
     margin: auto;
     background-image: url("../images/DiagnosedGender.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
   .chart5 {
     margin: auto;
     background-image: url("../images/DiagnosedSelfEmployed.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
   .chart6 {
     margin: auto;
     background-image: url("../images/DiagnosedTechCompany.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
-  }
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   .chart7 {
     margin: auto;
     background-image: url("../images/DiagnosedTechRole.png");
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position:50% 50%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: xx-large;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
   }
+.chartimg {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: -webkit-optimize-contrast;
+  -ms-interpolation-mode: nearest-neighbor;
+}
   .scrollable {
     overflow-y: auto !important;  // Use !important only if there is already an overflow style rule for this element and you want to override
   }  
@@ -114,3 +181,4 @@ body {
   overflow-y: scroll;
   height: 500px;
 }
+
