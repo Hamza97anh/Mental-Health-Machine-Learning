@@ -15,6 +15,7 @@ a mental illness.
 - We chose a logistic regression model splitting our data into 80 percent training and 20 pecent testing. 
 - Our data gave us an accuracy score of 63 percent. Family history seemed to have the greatest influence on mental illness.
 - Python in Jupyter Notebooks, Tableau, Excel, Flask, D3.js has all been used in this analysis.
+- In a future analysis we would like to test other variables such as working remotely, marital status, income, lifestyle, race, and number of hours worked.
 https://docs.google.com/presentation/d/1GDjIcSQ9aAUYrfBP5Oo42hqBygchMrgVO4kj3atX4jc/edit?usp=sharing
 
 ## Machine Learning Model
